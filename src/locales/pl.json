@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Wybierz język",
+    "menuLabel": "Wybierz język z listy"
+  },
+  "header": {
+    "nav": {
+      "main": "Strona główna",
+      "mail": "Poczta",
+      "affiliate": "Program partnerski",
+      "instructions": "Instrukcje"
+    },
+    "login": "Zaloguj się"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Dołącz do programu partnerskiego Silence AI",
+      "title": "Zamień zaproszenia w przychody.",
+      "cta": "Dołącz do programu partnerskiego",
+      "earnings": "$2,940.00",
+      "growth": "+18% miesiąc do miesiąca",
+      "snapshot": {
+        "label": "Podgląd na żywo",
+        "caption": "Wyniki aktualizują się co 60 sekund, a potwierdzone wypłaty są synchronizowane natychmiast."
+      },
+      "graph": {
+        "label": "Trend przychodów",
+        "title": "Wzrost przychodów z poleceń",
+        "window": "Ostatnie 30 dni",
+        "label0": "Tydzień 1",
+        "label1": "Tydzień 2",
+        "label2": "Tydzień 3",
+        "label3": "Tydzień 4",
+        "label4": "Tydzień 5",
+        "label5": "Tydzień 6",
+        "label6": "Dzisiaj"
+      },
+      "metric": {
+        "conversion": "Aktywacje",
+        "conversionChange": "24 nowe zespoły w tym miesiącu",
+        "pending": "Oczekujące nagrody",
+        "pendingChange": "Wypłaty realizowane są w ciągu 2 dni roboczych"
+      }
+    },
+    "howItWorks": {
+      "title": "Jak to działa",
+      "create": {
+        "title": "Utwórz swój link",
+        "description": "Wygeneruj unikalny link polecający lub kod promocyjny w panelu Silence AI."
+      },
+      "share": {
+        "title": "Udostępnij",
+        "description": "Zapraszaj zespoły e-mailem, na LinkedInie i w społecznościach. Śledź wyniki w czasie rzeczywistym."
+      },
+      "earn": {
+        "title": "Zarabiaj",
+        "description": "Otrzymuj prowizję, gdy poleceni klienci aktywują ochronę Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Nagrody za saldo",
+      "highlight": {
+        "label": "Dlaczego partnerzy to uwielbiają"
+      },
+      "reward": {
+        "title": "10% nagrody przy każdym doładowaniu",
+        "description": "Kiedy zaproszony zespół doładowuje portfel Silence AI, 10% kwoty netto trafia do Ciebie natychmiast."
+      },
+      "settlement": {
+        "title": "Rozliczenie w czasie rzeczywistym",
+        "description": "Nagrody trafiają na saldo partnera w ciągu minuty od zakończenia transakcji — bez ręcznej akceptacji."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Zgłoszenia wypłat są automatycznie weryfikowane i trafiają na konto bankowe w maksymalnie dwa dni robocze."
+      },
+      "sample": {
+        "label": "Przykładowe doładowania",
+        "caption": "Przychody partnera rosną z każdym doładowaniem — bez resetu poziomów i mapowania produktów.",
+        "topup": "$250 doładowanie → $25 nagroda",
+        "topupHigher": "$1,000 doładowanie → $100 nagroda"
+      },
+      "note": "Prowizja liczona jest od kwoty netto po odjęciu opłat za obsługę płatności."
+    },
+    "faq": {
+      "title": "Pytania i odpowiedzi",
+      "payments": {
+        "question": "Jak otrzymam płatności?",
+        "answer": "Dodaj numer karty VISA lub Mastercard w profilu. Wypłaty mogą być przekazywane bezpośrednio na wskazaną kartę."
+      },
+      "discounts": {
+        "question": "Czy poleceni klienci dostają rabaty?",
+        "answer": "Nie. Poleceni klienci nie otrzymują rabatów na zakupy — prowizję za udane polecenia otrzymuje wyłącznie partner."
+      },
+      "statistics": {
+        "question": "Kiedy zobaczę statystyki poleceń?",
+        "answer": "Gdy użytkownik zarejestruje się przy użyciu Twojego kodu lub linku, jego e-mail i nagroda pojawią się w panelu."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: cyberbezpieczeństwo nie jest już ani drogie, ani skomplikowane",
+    "subheading": "Kompleksowy system cyberbezpieczeństwa oparty na AI, który łączy:",
+    "playgroundHeading": "60-sekundowa prezentacja",
+    "bullets": {
+      "web": "Ochrona przed atakami webowymi w czasie rzeczywistym",
+      "email": "Ochrona przed atakami e-mail",
+      "vulnerability": "Wyszukiwarka podatności"
+    },
+    "buttons": {
+      "connect": "Połącz w 4 minuty",
+      "tour": "Obejrzyj 90-sekundowy skrót"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Ochrona przed atakami webowymi",
+        "content": "System chroni przed WSZYSTKIMI typami ataków webowych, takimi jak DDoS, SQLi i inne, z wyjątkiem podatności logiki biznesowej"
+      },
+      "email": {
+        "title": "Ochrona przed atakami e-mail",
+        "content": "System chroni przed WSZYSTKIMI typami ataków e-mail, takimi jak phishing, złośliwe załączniki, niebezpieczne linki itd."
+      },
+      "vulnerability": {
+        "title": "Wyszukiwarka podatności",
+        "content": "System wykrywa podatności w kodzie aplikacji oraz poprzez dynamiczną interakcję z Twoją stroną lub API, również dzięki modułowi inteligencji"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Bezpieczeństwo webowe i zarządzanie ruchem",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Informacja o technicznych plikach cookie",
+    "description": "Ta strona wykorzystuje wyłącznie techniczne pliki cookie pierwszej strony, które pozwalają zapamiętać Twój wybór języka i nie wyświetlać ponownie tej informacji przy kolejnej wizycie. Nie używamy plików śledzących ani cookie podmiotów trzecich.",
+    "more": "Dowiedz się więcej w naszej",
+    "link": "Polityce cookies",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Cennik",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC z globalnym monitorowaniem ruchu",
+        "content": "Centralna Konsola Zarządzania (CMC) płynnie integruje się z innymi systemami bezpieczeństwa i działa w tej samej domenie oraz interfejsie co Global Shield i Security Tester. Stąd możesz blokować kraje, zamykać porty i wykonywać inne operacje"
+      },
+      "countryBlacklisting": {
+        "title": "Blokowanie krajów",
+        "content": "Zablokuj cały ruch pochodzący z wybranego kraju"
+      },
+      "portManagement": {
+        "title": "Zarządzanie portami",
+        "content": "Zamykaj nieużywane porty, aby zmniejszyć powierzchnię ataku. Na przykład wyłącz port 22, jeśli dostęp SSH nie jest potrzebny"
+      },
+      "cmcEmail": {
+        "title": "CMC z zaawansowaną wizualizacją przepływu e-maili",
+        "content": "CMC integruje się z pozostałymi systemami bezpieczeństwa i umożliwia monitorowanie przepływów poczty oraz przeglądanie wiadomości wszystkich dodanych użytkowników firmowych"
+      },
+      "dynamicVulnerability": {
+        "title": "Dynamiczna wyszukiwarka podatności",
+        "content": "Wykrywa podatności poprzez interakcję z Twoją stroną WWW, w tym przy wsparciu systemu inteligencji"
+      },
+      "codeAnalyzer": {
+        "title": "Analizator kodu",
+        "content": "Identyfikuje problemy bezpieczeństwa bezpośrednio w kodzie poprzez wtyczkę VS Code, pomagając naprawić je przed wdrożeniem"
+      },
+      "intelligenceReport": {
+        "title": "Raport wywiadowczy",
+        "content": "Generuje szczegółowe informacje o Twoim celu, w tym otwarte porty, działające usługi, subdomeny i inne wrażliwe dane wymagające reakcji"
+      },
+      "fullVulnerability": {
+        "title": "Pełne sprawdzenie podatności",
+        "content": "Pełna kontrola obejmuje zarówno dynamiczny skan podatności, jak i skan kodu źródłowego"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Bezpieczeństwo webowe i zarządzanie ruchem",
+        "price": "$0.06/GB",
+        "description": "Bez limitów\\nBrak dodatkowych opłat",
+        "button": "Zabezpiecz aplikacje webowe i API",
+        "features": {
+          "webProtection": "Ochrona przed wszystkimi rodzajami ataków webowych z wyjątkiem exploitów logiki biznesowej",
+          "ddosProtection": "Ochrona DDoS w czasie rzeczywistym",
+          "cmc": "CMC z globalnym monitorowaniem ruchu",
+          "country": "Funkcja blokowania krajów",
+          "port": "Funkcja zamykania portów"
+        }
+      },
+      "emailProtector": {
+        "title": "Bezpieczeństwo e-mail",
+        "price": "$10/miesiąc/konto",
+        "description": "Do 10 e-maili dziennie\\nDodatkowe e-maile: $0.035 za sztukę",
+        "button": "Zabezpiecz e-mail",
+        "features": {
+          "cmcEmail": "CMC z najbardziej zaawansowanym wizualizatorem przepływu poczty",
+          "visibility": "Pełna widoczność wysłanych i odebranych wiadomości dla wszystkich kont w CMC, z automatyczną kategoryzacją zagrożeń",
+          "webClient": "Bezpieczny klient webmail",
+          "phishing": "Ochrona przed phishingiem",
+          "malware": "Skanowanie złośliwych załączników",
+          "links": "Wykrywanie niebezpiecznych linków",
+          "spam": "Filtrowanie spamu",
+          "fakeSender": "Ochrona przed fałszywymi nadawcami"
+        }
+      },
+      "securityTester": {
+        "title": "Wyszukiwarka podatności",
+        "price": "$25/miesiąc",
+        "description": "Do 50 PEŁNYCH kontroli podatności miesięcznie\\nDodatkowe pełne kontrole: $0.5 każda",
+        "button": "Rozpocznij testy",
+        "features": {
+          "dynamic": "Dynamiczna wyszukiwarka podatności",
+          "codeAnalyzer": "Analizator kodu",
+          "reports": "Zrozumiałe raporty oceny bezpieczeństwa",
+          "intelligence": "Raport wywiadowczy"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Nasze rozwiązanie",
+    "sectionSubtitle": "Gotowe w 4 minuty i dostępne dla każdego specjalisty IT - bez potrzeby wiedzy z cyberbezpieczeństwa. Zapewniamy zaawansowaną wizualizację i przystępne ceny.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - monitoring ruchu na poziomie CIA",
+        "description": "Interaktywny globus 3D imponująco wizualizuje Twój ruch webowy: żądania na sekundę, aktywnych użytkowników i wolumen danych w bajtach.",
+        "bullets": {
+          "one": "Prosta konfiguracja: wystarczy podać swój adres IP i domenę.",
+          "two": "Otrzymaj adres IP agenta do dodania w DNS.",
+          "three": "Zamknięcie portów dla pełnej ochrony."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - pierwsza na świecie ochrona e-mail AI",
+        "description": "Pierwszy na świecie system ochrony poczty oparty na AI. Widok wektorowy ułatwia śledzenie przepływu wiadomości w czasie i identyfikację zagrożeń.",
+        "bullets": {
+          "one": "Wykrywa spoofing, spam, phishing i malware.",
+          "two": "Administrator może dodawać konta e-mail do ochrony.",
+          "three": "Najbardziej zaawansowany komercyjny wizualizator przepływu poczty."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - nowa generacja testów podatności",
+        "description": "System udostępnia jednorazowy token (OTT) dla pełnych testów bezpieczeństwa. Wystarczy połączyć się przez przeglądarkę lub rozszerzenie VS Code.",
+        "bullets": {
+          "one": "Zdefiniuj zakres i cel bezpieczeństwa w CMC.",
+          "two": "Wklej OTT i rozpocznij test bezpieczeństwa.",
+          "three": "Wgląd w ryzyko oparty na danych wywiadowczych."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Centralna Konsola Zarządzania (CMC)",
+      "description": "Wszystkie trzy komponenty są zarządzane z jednej konsoli, zapewniającej scentralizowaną wizualizację, łatwą konfigurację i monitorowanie oraz kompleksowe raporty bezpieczeństwa."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 sekund",
+        "description": "Co 39 sekund dochodzi do ataku hakerskiego"
+      },
+      {
+        "title": "20 mln ataków DDoS",
+        "description": "20,5 mln ataków DDoS tylko w I kwartale 2025 roku"
+      },
+      {
+        "title": "Każdego dnia",
+        "description": "30 000 stron internetowych jest codziennie hakowanych"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Poznaj sposób myślenia hakerów",
+    "description": "Śledź nasze codzienne badania realnych metod ataków i zagrożeń cybernetycznych"
+  },
+  "modal": {
+    "title": "Aktywnie rozwijane",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Rzeczywistość cyberataków"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "System bezpieczeństwa web: strona/API może być podłączona w 2 minuty",
+      "description": "Ochrona przed atakami webowymi, takimi jak DDoS, SQLi itp. Dostępna jest też opcja zamykania portów; dobrą praktyką jest wyłączenie portu 22, gdy nie jest używany"
+    },
+    "ciaMonitoring": {
+      "title": "Monitoring ruchu na poziomie CIA",
+      "description": "Nasz interaktywny globus 3D pokazuje wolumen ruchu według żądań, użytkowników i danych oraz pozwala zobaczyć historię zmian liczby użytkowników"
+    },
+    "userGrowth": {
+      "title": "Przydatne informacje o wzroście liczby użytkowników",
+      "description": "Możliwość podglądu historii zmian liczby użytkowników"
+    },
+    "aiEmailProtection": {
+      "title": "Pierwszy na świecie system ochrony e-mail opartej na AI: sieć e-mail można podłączyć w 2 minuty",
+      "description": "Dla administratorów dostępna jest CMC pokazująca pełną widoczność wszystkich wysłanych i odebranych wiadomości dla dodanych kont, z automatyczną kategoryzacją zagrożeń: spoofing, spam, phishing, niebezpieczne linki i malware."
+    },
+    "emailVisualization": {
+      "title": "Wizualizacja wysłanych i odebranych wiadomości",
+      "description": "CMC z najbardziej zaawansowanym komercyjnie dostępnym wizualizatorem przepływu poczty"
+    },
+    "secureWebmail": {
+      "title": "Bezpieczny klient webmail",
+      "description": "Dla kont dodanych przez administratora dostępny jest najbezpieczniejszy klient webmail, wykrywający i kategoryzujący zagrożenia takie jak spoofing, spam, phishing i malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Kontakt:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Adres:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Warunki użytkowania",
+      "termsService": "Warunki świadczenia usług",
+      "privacy": "Polityka prywatności",
+      "cookies": "Polityka cookies"
+    },
+    "copyright": "© {year} Silence AI. Wszelkie prawa zastrzeżone."
+  }
+}

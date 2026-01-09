@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Chọn ngôn ngữ",
+    "menuLabel": "Vui lòng chọn ngôn ngữ"
+  },
+  "header": {
+    "nav": {
+      "main": "Trang chủ",
+      "mail": "Thư",
+      "affiliate": "Chương trình liên kết",
+      "instructions": "Hướng dẫn"
+    },
+    "login": "Đăng nhập"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Tham gia chương trình đối tác của Silence AI",
+      "title": "Biến lời mời thành doanh thu.",
+      "cta": "Tham gia chương trình đối tác",
+      "earnings": "$2,940.00",
+      "growth": "+18% so với tháng trước",
+      "snapshot": {
+        "label": "Tổng quan trực tiếp",
+        "caption": "Hiệu suất được cập nhật mỗi 60 giây và các khoản chi trả đã xác nhận được đồng bộ ngay lập tức."
+      },
+      "graph": {
+        "label": "Xu hướng doanh thu",
+        "title": "Tăng trưởng doanh thu từ giới thiệu",
+        "window": "30 ngày gần đây",
+        "label0": "Tuần 1",
+        "label1": "Tuần 2",
+        "label2": "Tuần 3",
+        "label3": "Tuần 4",
+        "label4": "Tuần 5",
+        "label5": "Tuần 6",
+        "label6": "Hôm nay"
+      },
+      "metric": {
+        "conversion": "Kích hoạt",
+        "conversionChange": "24 đội ngũ mới trong tháng này",
+        "pending": "Phần thưởng đang chờ",
+        "pendingChange": "Thanh toán xử lý trong 2 ngày làm việc"
+      }
+    },
+    "howItWorks": {
+      "title": "Cách hoạt động",
+      "create": {
+        "title": "Tạo liên kết của bạn",
+        "description": "Tạo liên kết giới thiệu hoặc mã khuyến mãi độc quyền trong bảng điều khiển Silence AI."
+      },
+      "share": {
+        "title": "Chia sẻ",
+        "description": "Mời các đội ngũ qua email, LinkedIn và cộng đồng. Theo dõi hiệu suất theo thời gian thực."
+      },
+      "earn": {
+        "title": "Kiếm tiền",
+        "description": "Nhận hoa hồng ngay khi khách hàng được bạn giới thiệu kích hoạt bảo vệ Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Phần thưởng số dư",
+      "highlight": {
+        "label": "Vì sao đối tác yêu thích"
+      },
+      "reward": {
+        "title": "Thưởng 10% cho mỗi lần nạp",
+        "description": "Khi đội ngũ được mời nạp ví Silence AI, 10% giá trị ròng sẽ được cộng ngay cho bạn."
+      },
+      "settlement": {
+        "title": "Hạch toán thời gian thực",
+        "description": "Phần thưởng xuất hiện trên số dư đối tác trong vòng một phút sau giao dịch—không cần duyệt thủ công."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Yêu cầu rút tiền được kiểm tra tự động và chuyển vào tài khoản ngân hàng của bạn trong hai ngày làm việc."
+      },
+      "sample": {
+        "label": "Ví dụ nạp tiền",
+        "caption": "Thu nhập đối tác tăng lên theo mỗi lần nạp—không cần đặt lại cấp độ hay ánh xạ sản phẩm.",
+        "topup": "$250 nạp → $25 thưởng",
+        "topupHigher": "$1,000 nạp → $100 thưởng"
+      },
+      "note": "Hoa hồng được tính trên giá trị ròng sau khi trừ phí xử lý thanh toán."
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "payments": {
+        "question": "Tôi nhận tiền thế nào?",
+        "answer": "Thêm số thẻ VISA hoặc Mastercard vào hồ sơ. Phần thưởng sẽ được chuyển trực tiếp vào thẻ đó."
+      },
+      "discounts": {
+        "question": "Khách hàng được giới thiệu có nhận ưu đãi không?",
+        "answer": "Không. Khách hàng được giới thiệu không nhận ưu đãi cho việc mua hàng; chỉ đối tác nhận hoa hồng cho giới thiệu thành công."
+      },
+      "statistics": {
+        "question": "Khi nào tôi xem thống kê giới thiệu?",
+        "answer": "Khi người dùng đăng ký bằng mã hoặc liên kết của bạn, email và phần thưởng tương ứng sẽ hiển thị trong bảng điều khiển."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: An ninh mạng không còn đắt đỏ hay phức tạp",
+    "subheading": "Giải pháp an ninh mạng toàn diện dựa trên AI, kết hợp các thành phần:",
+    "playgroundHeading": "Chuyến tham quan 60 giây",
+    "bullets": {
+      "web": "Bảo vệ tấn công web theo thời gian thực",
+      "email": "Bảo vệ trước tấn công email",
+      "vulnerability": "Trình tìm lỗ hổng"
+    },
+    "buttons": {
+      "connect": "Kết nối trong 4 phút",
+      "tour": "Xem tour 90 giây"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Bảo vệ tấn công web",
+        "content": "Hệ thống bảo vệ trước MỌI loại tấn công web như DDoS, SQLi (trừ lỗ hổng logic nghiệp vụ)"
+      },
+      "email": {
+        "title": "Bảo vệ tấn công email",
+        "content": "Hệ thống chặn MỌI dạng tấn công email như phishing, tập tin độc hại, liên kết nguy hiểm"
+      },
+      "vulnerability": {
+        "title": "Trình tìm lỗ hổng",
+        "content": "Hệ thống phát hiện lỗ hổng trong mã ứng dụng và qua tương tác động với website/API, kết hợp động cơ tình báo"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "An ninh web & quản lý lưu lượng",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Thông báo cookie kỹ thuật",
+    "description": "Website chỉ sử dụng cookie kỹ thuật của chính chúng tôi để ghi nhớ ngôn ngữ của bạn và không hiển thị lại thông báo này cho lần truy cập sau. Không sử dụng cookie theo dõi hay cookie bên thứ ba.",
+    "more": "Tìm hiểu thêm trong",
+    "link": "Chính sách Cookie",
+    "ok": "Đồng ý"
+  },
+  "pricing": {
+    "title": "Bảng giá",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC với giám sát lưu lượng toàn cầu",
+        "content": "Bảng điều khiển quản lý tập trung (CMC) tích hợp chặt chẽ với các hệ thống bảo mật khác và dùng chung miền, giao diện với Global Shield và Security Tester. Tại đây bạn có thể chặn quốc gia, đóng port và vận hành ở quy mô lớn"
+      },
+      "countryBlacklisting": {
+        "title": "Chặn theo quốc gia",
+        "content": "Chặn toàn bộ lưu lượng đến từ một quốc gia cụ thể"
+      },
+      "portManagement": {
+        "title": "Quản lý port",
+        "content": "Đóng các port không dùng để giảm bề mặt tấn công. Ví dụ, vô hiệu hóa port 22 khi không cần SSH"
+      },
+      "cmcEmail": {
+        "title": "CMC với trình trực quan hoá luồng email nâng cao",
+        "content": "CMC tích hợp với các hệ thống bảo mật khác và cho phép bạn giám sát, xem xét luồng email của mọi người dùng doanh nghiệp đã thêm"
+      },
+      "dynamicVulnerability": {
+        "title": "Trình tìm lỗ hổng động",
+        "content": "Dò tìm lỗ hổng thông qua tương tác với website của bạn, bao gồm hỗ trợ từ hệ thống tình báo"
+      },
+      "codeAnalyzer": {
+        "title": "Trình phân tích mã",
+        "content": "Xác định vấn đề bảo mật ngay trong mã nguồn bằng tiện ích VS Code, giúp sửa trước khi triển khai"
+      },
+      "intelligenceReport": {
+        "title": "Báo cáo tình báo",
+        "content": "Cung cấp thông tin chi tiết về mục tiêu: port mở, dịch vụ đang chạy, tên miền con và dữ liệu nhạy cảm cần xử lý"
+      },
+      "fullVulnerability": {
+        "title": "Kiểm tra lỗ hổng TOÀN DIỆN",
+        "content": "Một lần kiểm tra toàn diện bao gồm quét động và quét mã"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "An ninh web & quản lý lưu lượng",
+        "price": "$0.06/GB",
+        "description": "Không giới hạn\nKhông phụ phí",
+        "button": "Bảo vệ ứng dụng web & API",
+        "features": {
+          "webProtection": "Bảo vệ mọi kiểu tấn công web (trừ khai thác logic nghiệp vụ)",
+          "ddosProtection": "Bảo vệ DDoS theo thời gian thực",
+          "cmc": "CMC với giám sát lưu lượng toàn cầu",
+          "country": "Tính năng chặn quốc gia",
+          "port": "Tính năng đóng port"
+        }
+      },
+      "emailProtector": {
+        "title": "An ninh email",
+        "price": "$10/tháng/tài khoản",
+        "description": "Tối đa 10 email mỗi ngày\nEmail thêm: $0.035/email",
+        "button": "Bảo vệ email",
+        "features": {
+          "cmcEmail": "CMC với trình trực quan hoá luồng email tiên tiến nhất",
+          "visibility": "Nhìn thấy toàn bộ email gửi/nhận và phân loại mối đe doạ tự động",
+          "webClient": "Khách webmail an toàn",
+          "phishing": "Chống phishing",
+          "malware": "Quét tệp độc hại",
+          "links": "Phát hiện liên kết nguy hiểm",
+          "spam": "Lọc spam",
+          "fakeSender": "Bảo vệ khỏi người gửi giả"
+        }
+      },
+      "securityTester": {
+        "title": "Trình tìm lỗ hổng",
+        "price": "$25/tháng",
+        "description": "Tối đa 50 kiểm tra TOÀN DIỆN mỗi tháng\nKiểm tra thêm: $0.5/lần",
+        "button": "Bắt đầu kiểm tra",
+        "features": {
+          "dynamic": "Trình tìm lỗ hổng động",
+          "codeAnalyzer": "Trình phân tích mã",
+          "reports": "Báo cáo bảo mật dễ hiểu",
+          "intelligence": "Báo cáo tình báo"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Giải pháp của chúng tôi",
+    "sectionSubtitle": "Sẵn sàng trong 4 phút, bất kỳ chuyên gia CNTT nào cũng sử dụng được mà không cần chuyên môn an ninh mạng. Chúng tôi cung cấp trực quan hoá nâng cao và chi phí hợp lý.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - Giám sát lưu lượng cấp CIA",
+        "description": "Quả địa cầu 3D tương tác hiển thị sinh động lưu lượng web: yêu cầu mỗi giây, người dùng hoạt động và lưu lượng theo byte.",
+        "bullets": {
+          "one": "Thiết lập dễ dàng: chỉ cần nhập IP và tên miền.",
+          "two": "Nhận IP đại lý để thêm vào DNS.",
+          "three": "Đóng port để không còn bề mặt phơi nhiễm."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - bảo vệ email AI đầu tiên trên thế giới",
+        "description": "Hệ thống bảo vệ email thương mại đầu tiên dựa trên AI. Giao diện vector giúp theo dõi luồng email theo thời gian và phát hiện mối đe doạ dễ dàng.",
+        "bullets": {
+          "one": "Phát hiện giả mạo, spam, phishing, malware.",
+          "two": "Quản trị viên có thể thêm tài khoản email cần bảo vệ.",
+          "three": "Trình trực quan hoá luồng email thương mại tiên tiến nhất."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - kiểm thử lỗ hổng thế hệ mới",
+        "description": "Hệ thống cung cấp One-Time-Token (OTT) để thực hiện kiểm tra bảo mật toàn diện. Kết nối qua trình duyệt hoặc tiện ích VS Code.",
+        "bullets": {
+          "one": "Định nghĩa phạm vi và mục tiêu kiểm tra trong CMC.",
+          "two": "Dán OTT và bắt đầu kiểm tra.",
+          "three": "Nhận insight rủi ro dựa trên tình báo."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Bảng điều khiển quản lý tập trung (CMC)",
+      "description": "Ba thành phần được quản lý trong một bảng điều khiển hợp nhất, cung cấp trực quan hoá tập trung, cấu hình và giám sát dễ dàng cùng báo cáo bảo mật toàn diện."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 giây",
+        "description": "Cứ mỗi 39 giây lại có một cuộc tấn công mạng"
+      },
+      {
+        "title": "20 triệu cuộc tấn công DDoS",
+        "description": "Riêng quý I/2025 đã ghi nhận 20,5 triệu cuộc tấn công DDoS"
+      },
+      {
+        "title": "Mỗi ngày",
+        "description": "30.000 website bị hack mỗi ngày"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Hiểu cách hacker suy nghĩ",
+    "description": "Theo dõi nghiên cứu hằng ngày của chúng tôi về phương pháp tấn công thực tế và mối đe doạ mạng"
+  },
+  "modal": {
+    "title": "Đang phát triển",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Thực trạng tấn công mạng"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Hệ thống bảo mật web: kết nối website/API trong 2 phút",
+      "description": "Bảo vệ khỏi DDoS, SQLi và các tấn công web khác. Đóng port 22 khi không dùng là thói quen tốt."
+    },
+    "ciaMonitoring": {
+      "title": "Giám sát lưu lượng cấp CIA",
+      "description": "Quả địa cầu 3D hiển thị lưu lượng theo yêu cầu, người dùng, lưu lượng và lịch sử thay đổi."
+    },
+    "userGrowth": {
+      "title": "Insight hữu ích về tăng trưởng người dùng",
+      "description": "Xem lịch sử biến động lượng người dùng"
+    },
+    "aiEmailProtection": {
+      "title": "Bảo vệ email bằng AI: kết nối mạng trong 2 phút",
+      "description": "CMC cho quản trị viên cái nhìn đầy đủ về tất cả email gửi/nhận của các tài khoản đã thêm và tự động phân loại mối đe doạ như giả mạo, spam, phishing, liên kết nguy hiểm, malware."
+    },
+    "emailVisualization": {
+      "title": "Trực quan hoá email gửi và nhận",
+      "description": "CMC cung cấp trình trực quan hoá luồng email thương mại tiên tiến nhất"
+    },
+    "secureWebmail": {
+      "title": "Khách webmail bảo mật cao",
+      "description": "Các tài khoản do quản trị viên thêm có thể dùng webmail siêu an toàn phát hiện giả mạo, spam, phishing và malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Liên hệ:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Địa chỉ:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Điều khoản sử dụng",
+      "termsService": "Điều khoản dịch vụ",
+      "privacy": "Chính sách bảo mật",
+      "cookies": "Chính sách Cookie"
+    },
+    "copyright": "© {year} Silence AI. Đã đăng ký bản quyền."
+  }
+}

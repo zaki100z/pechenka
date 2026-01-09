@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Seleccionar idioma",
+    "menuLabel": "Elegir idioma"
+  },
+  "header": {
+    "nav": {
+      "main": "Principal",
+      "mail": "Correo",
+      "affiliate": "Programa de afiliados",
+      "instructions": "Instrucciones"
+    },
+    "login": "Iniciar sesión"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Únete al programa de socios de Silence AI",
+      "title": "Convierte las invitaciones en ingresos.",
+      "cta": "Unirme al programa de socios",
+      "earnings": "$2,940.00",
+      "growth": "+18% frente al mes anterior",
+      "snapshot": {
+        "label": "Resumen en vivo",
+        "caption": "Los resultados se actualizan cada 60 segundos y los pagos confirmados se sincronizan al instante."
+      },
+      "graph": {
+        "label": "Tendencia de ingresos",
+        "title": "Crecimiento del ingreso por referencias",
+        "window": "Últimos 30 días",
+        "label0": "Semana 1",
+        "label1": "Semana 2",
+        "label2": "Semana 3",
+        "label3": "Semana 4",
+        "label4": "Semana 5",
+        "label5": "Semana 6",
+        "label6": "Hoy"
+      },
+      "metric": {
+        "conversion": "Activaciones",
+        "conversionChange": "24 equipos nuevos este mes",
+        "pending": "Recompensas pendientes",
+        "pendingChange": "Los retiros se procesan en 2 días hábiles"
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo funciona",
+      "create": {
+        "title": "Crea tu enlace",
+        "description": "Genera un enlace de referencia o código promocional único desde tu panel de Silence AI."
+      },
+      "share": {
+        "title": "Comparte",
+        "description": "Invita equipos por correo, LinkedIn y comunidades. Controla el rendimiento en tiempo real."
+      },
+      "earn": {
+        "title": "Gana",
+        "description": "Recibe comisión en cuanto los clientes referidos activen la protección Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Recompensas de saldo",
+      "highlight": {
+        "label": "Por qué a los socios les encanta"
+      },
+      "reward": {
+        "title": "10% de recompensa en cada recarga",
+        "description": "Cuando el equipo invitado recarga su monedero de Silence AI, el 10% del importe neto se acredita de inmediato."
+      },
+      "settlement": {
+        "title": "Registro en tiempo real",
+        "description": "Las recompensas se registran en tu saldo de socio en menos de un minuto tras la transacción, sin cola de aprobación manual."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Las solicitudes de retiro se revisan automáticamente y llegan a tu cuenta bancaria en un máximo de dos días hábiles."
+      },
+      "sample": {
+        "label": "Ejemplos de recarga",
+        "caption": "Los ingresos del socio crecen con cada recarga; no hay reinicio de niveles ni mapeo de productos.",
+        "topup": "$250 recarga → $25 recompensa",
+        "topupHigher": "$1,000 recarga → $100 recompensa"
+      },
+      "note": "La comisión se calcula sobre el importe neto tras las comisiones de procesamiento de pago."
+    },
+    "faq": {
+      "title": "Preguntas y respuestas",
+      "payments": {
+        "question": "¿Cómo recibo los pagos?",
+        "answer": "Añade el número de tu tarjeta VISA o Mastercard en tu perfil. Las recompensas se transfieren directamente a esa tarjeta."
+      },
+      "discounts": {
+        "question": "¿Los clientes referidos reciben descuentos?",
+        "answer": "No. Los clientes referidos no reciben descuentos en sus compras; solo el socio obtiene comisión por las referencias exitosas."
+      },
+      "statistics": {
+        "question": "¿Cuándo veré mis estadísticas de referencia?",
+        "answer": "Cuando un usuario se registre con tu código o enlace, su correo y la recompensa correspondiente aparecerán en tu panel."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: La ciberseguridad ya no es cara ni complicada",
+    "subheading": "La plataforma integral basada en IA que combina:",
+    "playgroundHeading": "Recorrido de 60 segundos",
+    "bullets": {
+      "web": "Protección en tiempo real contra ataques web",
+      "email": "Protección frente a ataques de correo electrónico",
+      "vulnerability": "Buscador de vulnerabilidades"
+    },
+    "buttons": {
+      "connect": "Conectar en 4 minutos",
+      "tour": "Ver recorrido de 90 s"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Protección contra ataques web",
+        "content": "El sistema protege contra TODO tipo de ataques web, como DDoS, SQLi y otros, salvo vulnerabilidades de lógica de negocio"
+      },
+      "email": {
+        "title": "Protección contra ataques de correo",
+        "content": "El sistema protege contra TODO tipo de ataques de correo electrónico, como phishing, archivos maliciosos, enlaces peligrosos, etc."
+      },
+      "vulnerability": {
+        "title": "Buscador de vulnerabilidades",
+        "content": "El sistema detecta vulnerabilidades en el código de la aplicación y mediante la interacción dinámica con tu sitio web o API, incluida la búsqueda con el sistema de inteligencia"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Seguridad web y gestión del tráfico",
+      "emailSecurity": "Seguridad del correo electrónico y visualización"
+    }
+  },
+  "cookie": {
+    "title": "Aviso sobre cookies técnicas",
+    "description": "Este sitio utiliza únicamente cookies técnicas propias para recordar tus preferencias de idioma y evitar mostrarte de nuevo este aviso en tu próxima visita. No utilizamos cookies de seguimiento ni de terceros.",
+    "more": "Más información en nuestra",
+    "link": "Política de Cookies",
+    "ok": "Aceptar"
+  },
+  "pricing": {
+    "title": "Precios",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC con monitorización global del tráfico",
+        "content": "La consola de gestión centralizada (CMC) se integra con el resto de sistemas de seguridad y comparte dominio e interfaz con Global Shield y Security Tester. Desde allí puedes bloquear países, cerrar puertos y realizar otras operaciones a escala"
+      },
+      "countryBlacklisting": {
+        "title": "Bloqueo por país",
+        "content": "Bloquea todo el tráfico que provenga de un país concreto"
+      },
+      "portManagement": {
+        "title": "Gestión de puertos",
+        "content": "Cierra los puertos que no se utilizan para reducir la superficie de ataque, por ejemplo deshabilitar el puerto 22 cuando no se necesita acceso SSH"
+      },
+      "cmcEmail": {
+        "title": "CMC con visor avanzado del flujo de correo",
+        "content": "La CMC se integra con los demás sistemas de seguridad y comparte dominio e interfaz. Desde la consola es posible monitorizar y revisar el flujo de correo de todos los usuarios corporativos añadidos"
+      },
+      "dynamicVulnerability": {
+        "title": "Buscador dinámico de vulnerabilidades",
+        "content": "Detecta vulnerabilidades interactuando con tu sitio web, incluida la búsqueda mediante el sistema de inteligencia"
+      },
+      "codeAnalyzer": {
+        "title": "Analizador de código",
+        "content": "Identifica problemas de seguridad directamente en tu base de código mediante el complemento para VS Code, ayudándote a corregirlos antes del despliegue"
+      },
+      "intelligenceReport": {
+        "title": "Informe de inteligencia",
+        "content": "Genera información detallada sobre tu objetivo: puertos abiertos, servicios en ejecución, subdominios y otros datos sensibles que podrían requerir acción"
+      },
+      "fullVulnerability": {
+        "title": "Revisión COMPLETA de vulnerabilidades",
+        "content": "Una revisión COMPLETA incluye un escaneo dinámico de vulnerabilidades y un escaneo del código"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Seguridad web y gestión de tráfico",
+        "price": "$0.06/GB",
+        "description": "Sin límites\nSin cargos adicionales",
+        "button": "Proteger aplicaciones y APIs",
+        "features": {
+          "webProtection": "Protección contra todo tipo de ataques web, salvo explotación de lógica de negocio",
+          "ddosProtection": "Protección DDoS en tiempo real",
+          "cmc": "CMC con monitorización global del tráfico",
+          "country": "Bloqueo por país",
+          "port": "Función de cierre de puertos"
+        }
+      },
+      "emailProtector": {
+        "title": "Seguridad del correo electrónico y visualización",
+        "price": "$10/mes/cuenta",
+        "description": "Hasta 10 correos al día\nCorreos adicionales: $0.035 cada uno",
+        "button": "Proteger correo",
+        "features": {
+          "cmcEmail": "CMC con el visor de flujo de correo más avanzado",
+          "visibility": "Visibilidad total de los correos enviados y recibidos, con categorización automática de amenazas",
+          "webClient": "Cliente web seguro",
+          "phishing": "Protección contra phishing",
+          "malware": "Análisis de adjuntos maliciosos",
+          "links": "Detección de enlaces peligrosos",
+          "spam": "Filtro antispam",
+          "fakeSender": "Protección contra remitente falso"
+        }
+      },
+      "securityTester": {
+        "title": "Buscador de vulnerabilidades",
+        "price": "$25/mes",
+        "description": "Hasta 50 revisiones COMPLETAS de vulnerabilidades al mes\nRevisiones COMPLETAS adicionales: $0.5 cada una",
+        "button": "Empezar a probar",
+        "features": {
+          "dynamic": "Buscador dinámico de vulnerabilidades",
+          "codeAnalyzer": "Analizador de código",
+          "reports": "Informes de seguridad fáciles de entender",
+          "intelligence": "Informe de inteligencia"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Nuestra solución",
+    "sectionSubtitle": "Lista en 4 minutos y utilizable por cualquier profesional de TI, sin necesidad de experiencia en ciberseguridad. Ofrecemos visualización avanzada y precios accesibles.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - Monitorización del tráfico a nivel CIA",
+        "description": "Nuestro globo 3D interactivo ofrece una visualización impactante del tráfico web: peticiones por segundo, usuarios activos y volumen en bytes.",
+        "bullets": {
+          "one": "Configuración sencilla: solo especifica tu IP y dominio.",
+          "two": "Recibe una IP de agente para añadirla a tu DNS.",
+          "three": "Cierre de puertos para eliminar la exposición."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - La primera protección de correo con IA",
+        "description": "El primer sistema de protección de correo basado en IA. La vista vectorial facilita seguir el flujo del correo e identificar amenazas.",
+        "bullets": {
+          "one": "Detecta suplantación, spam, phishing y malware.",
+          "two": "El administrador puede añadir cuentas para protegerlas.",
+          "three": "El visualizador de flujo de correo comercial más avanzado."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - Pruebas de vulnerabilidades de nueva generación",
+        "description": "El sistema ofrece un token de un solo uso (OTT) para comprobaciones de seguridad completas. Conéctate desde el navegador o la extensión de VSCode.",
+        "bullets": {
+          "one": "Define el alcance y el objetivo en la CMC.",
+          "two": "Introduce el OTT y comienza la revisión.",
+          "three": "Información de riesgos basada en inteligencia."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Consola de gestión centralizada (CMC)",
+      "description": "Los tres componentes se administran desde una única consola que ofrece visualización centralizada, configuración y monitorización sencillas, y reportes de seguridad integrales."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 segundos",
+        "description": "Se produce un ciberataque cada 39 segundos"
+      },
+      {
+        "title": "20 M de ataques DDoS",
+        "description": "20,5 millones de ataques DDoS solo en el primer trimestre de 2025"
+      },
+      {
+        "title": "Cada día",
+        "description": "30 000 sitios web son atacados a diario"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Descubre cómo piensan los hackers",
+    "description": "Síguenos para recibir investigaciones diarias sobre métodos de ataque reales y amenazas"
+  },
+  "modal": {
+    "title": "En desarrollo activo",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "La realidad de los ciberataques"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Sistema de seguridad web: el sitio o la API se conectan en 2 minutos",
+      "description": "Protección frente a ataques web como DDoS, SQLi, etc. También permite cerrar puertos; es una buena práctica cerrar el puerto 22 cuando no se está utilizando"
+    },
+    "ciaMonitoring": {
+      "title": "Monitorización del tráfico a nivel CIA",
+      "description": "Nuestro globo 3D interactivo muestra el volumen de tráfico por peticiones, usuarios y bytes, y permite ver el historial de cambios en el número de usuarios"
+    },
+    "userGrowth": {
+      "title": "Información útil sobre el crecimiento de usuarios",
+      "description": "Posibilidad de revisar el historial de cambios en el número de usuarios"
+    },
+    "aiEmailProtection": {
+      "title": "Primer sistema de protección de correo basado en IA: la red de correo se conecta en 2 minutos",
+      "description": "La CMC ofrece a los administradores visibilidad total de todos los correos enviados y recibidos de las cuentas añadidas, con categorización automática de amenazas como suplantación, spam, phishing, enlaces peligrosos y malware"
+    },
+    "emailVisualization": {
+      "title": "Visualización del correo enviado y recibido",
+      "description": "CMC con el visualizador de flujo de correo comercial más avanzado"
+    },
+    "secureWebmail": {
+      "title": "Cliente web seguro",
+      "description": "Para las cuentas añadidas por el administrador se ofrece el cliente web más seguro, que detecta y clasifica amenazas como suplantación, spam, phishing y malware"
+    }
+  },
+  "footer": {
+    "contactLabel": "Contacto:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Dirección:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, EAU",
+    "links": {
+      "termsUse": "Términos de uso",
+      "termsService": "Términos del servicio",
+      "privacy": "Política de privacidad",
+      "cookies": "Política de cookies"
+    },
+    "copyright": "© {year} Silence AI. Todos los derechos reservados."
+  }
+}

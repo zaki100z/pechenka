@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Selectează limba",
+    "menuLabel": "Alege limba"
+  },
+  "header": {
+    "nav": {
+      "main": "Acasă",
+      "mail": "Mail",
+      "affiliate": "Program de afiliere",
+      "instructions": "Instrucțiuni"
+    },
+    "login": "Autentificare"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Alătură-te programului de parteneriat Silence AI",
+      "title": "Transformă invitațiile în venituri.",
+      "cta": "Intră în programul de parteneriat",
+      "earnings": "$2,940.00",
+      "growth": "+18% față de luna trecută",
+      "snapshot": {
+        "label": "Vedere în timp real",
+        "caption": "Performanța se actualizează la fiecare 60 de secunde, iar plățile confirmate se sincronizează instantaneu."
+      },
+      "graph": {
+        "label": "Tendința veniturilor",
+        "title": "Creșterea veniturilor din recomandări",
+        "window": "Ultimele 30 de zile",
+        "label0": "Săptămâna 1",
+        "label1": "Săptămâna 2",
+        "label2": "Săptămâna 3",
+        "label3": "Săptămâna 4",
+        "label4": "Săptămâna 5",
+        "label5": "Săptămâna 6",
+        "label6": "Astăzi"
+      },
+      "metric": {
+        "conversion": "Activări",
+        "conversionChange": "24 de echipe noi în această lună",
+        "pending": "Recompense în așteptare",
+        "pendingChange": "Retragerile sunt procesate în 2 zile lucrătoare"
+      }
+    },
+    "howItWorks": {
+      "title": "Cum funcționează",
+      "create": {
+        "title": "Creează-ți linkul",
+        "description": "Generează un link de recomandare sau un cod promoțional unic în panoul Silence AI."
+      },
+      "share": {
+        "title": "Distribuie",
+        "description": "Invită echipe prin email, LinkedIn și comunități. Urmărește performanța în timp real."
+      },
+      "earn": {
+        "title": "Câștigă",
+        "description": "Primește comision imediat ce clienții recomandați activează protecția Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Recompense de balans",
+      "highlight": {
+        "label": "De ce partenerilor le place"
+      },
+      "reward": {
+        "title": "10% recompensă la fiecare alimentare",
+        "description": "Când echipa invitată își reîncarcă portofelul Silence AI, 10% din valoarea netă se creditează imediat la tine."
+      },
+      "settlement": {
+        "title": "Înregistrare în timp real",
+        "description": "Recompensele apar în soldul de partener în mai puțin de un minut după tranzacție — fără coadă de aprobare manuală."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Cererea de retragere este verificată automat și ajunge în contul tău bancar în cel mult două zile lucrătoare."
+      },
+      "sample": {
+        "label": "Exemple de alimentare",
+        "caption": "Veniturile partenerilor cresc cu fiecare alimentare — fără resetarea nivelurilor și fără cartografierea produselor.",
+        "topup": "$250 alimentare → $25 recompensă",
+        "topupHigher": "$1,000 alimentare → $100 recompensă"
+      },
+      "note": "Comisionul se calculează din valoarea netă după taxele de procesare a plății."
+    },
+    "faq": {
+      "title": "Întrebări și răspunsuri",
+      "payments": {
+        "question": "Cum primesc plățile?",
+        "answer": "Adaugă în profil numărul cardului VISA sau Mastercard. Plățile pot fi transferate direct către acel card."
+      },
+      "discounts": {
+        "question": "Clienții recomandați primesc reduceri?",
+        "answer": "Nu. Clienții recomandați nu primesc reduceri pentru cumpărăturile lor; doar partenerul primește comision pentru recomandări reușite."
+      },
+      "statistics": {
+        "question": "Când voi vedea statisticile de recomandări?",
+        "answer": "De îndată ce un utilizator se înregistrează cu codul sau linkul tău, emailul și recompensa aferentă apar în panou."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: securitatea cibernetică nu mai este scumpă sau complicată",
+    "subheading": "Platforma completă de securitate cibernetică bazată pe AI care combină:",
+    "playgroundHeading": "Tur de 60 de secunde",
+    "bullets": {
+      "web": "Protecție în timp real împotriva atacurilor web",
+      "email": "Protecție împotriva atacurilor prin email",
+      "vulnerability": "Detector de vulnerabilități"
+    },
+    "buttons": {
+      "connect": "Conectează în 4 minute",
+      "tour": "Urmărește turul de 90 de secunde"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Protecție împotriva atacurilor web",
+        "content": "Sistemul protejează împotriva TUTUROR tipurilor de atacuri web, precum DDoS, SQLi și altele, cu excepția vulnerabilităților de logică de business"
+      },
+      "email": {
+        "title": "Protecție împotriva atacurilor prin email",
+        "content": "Sistemul poate bloca TOATE tipurile de atacuri email, precum phishing, atașamente malware, linkuri periculoase etc."
+      },
+      "vulnerability": {
+        "title": "Detector de vulnerabilități",
+        "content": "Sistemul găsește vulnerabilitățile din codul aplicației și prin interacțiune dinamică cu site-ul/API-ul tău, folosind inclusiv motorul de inteligență"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Securitate web & management trafic",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Notificare despre cookie-urile tehnice",
+    "description": "Acest site utilizează doar cookie-uri tehnice proprii, setate de noi, pentru a memora preferințele tale de limbă și pentru a nu afișa din nou notificarea la următoarea vizită. Nu folosim cookie-uri de urmărire sau cookie-uri terțe.",
+    "more": "Află mai multe în",
+    "link": "Politica de cookie-uri",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Tarife",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC cu monitorizare globală a traficului",
+        "content": "Consolea Centralizată de Management (CMC) se integrează perfect cu celelalte sisteme de securitate și folosește același domeniu și interfață ca Global Shield și Security Tester. De aici poți bloca țări, închide porturi și efectua alte operațiuni"
+      },
+      "countryBlacklisting": {
+        "title": "Blocare la nivel de țară",
+        "content": "Blochează întreg traficul provenit dintr-o anumită țară"
+      },
+      "portManagement": {
+        "title": "Managementul porturilor",
+        "content": "Închide porturile neutilizate pentru a reduce suprafața de atac; de exemplu, dezactivează portul 22 dacă accesul SSH nu este necesar"
+      },
+      "cmcEmail": {
+        "title": "CMC cu vizualizarea avansată a fluxului de email",
+        "content": "CMC este integrată cu celelalte sisteme de securitate și îți permite să monitorizezi fluxurile de email și să verifici mesajele tuturor utilizatorilor corporativi adăugați"
+      },
+      "dynamicVulnerability": {
+        "title": "Detector dinamic de vulnerabilități",
+        "content": "Detectează vulnerabilități prin interacțiune directă cu site-ul tău, sprijinită de sistemul de inteligență"
+      },
+      "codeAnalyzer": {
+        "title": "Analizator de cod",
+        "content": "Identifică problemele de securitate direct în cod printr-un plugin VS Code, ajutându-te să le remediezi înainte de lansare"
+      },
+      "intelligenceReport": {
+        "title": "Raport de inteligență",
+        "content": "Generează informații detaliate despre ținta ta, inclusiv porturi deschise, servicii active, subdomenii și alte informații sensibile ce necesită acțiune"
+      },
+      "fullVulnerability": {
+        "title": "Verificare COMPLETĂ a vulnerabilităților",
+        "content": "O verificare completă include atât scanare dinamică, cât și scanare a codului aplicației"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Securitate web & management trafic",
+        "price": "$0.06/GB",
+        "description": "Fără limite\nFără taxe suplimentare",
+        "button": "Protejează aplicațiile web și API-urile",
+        "features": {
+          "webProtection": "Protecție împotriva tuturor atacurilor web, cu excepția exploatărilor logice de business",
+          "ddosProtection": "Protecție DDoS în timp real",
+          "cmc": "CMC cu monitorizare globală a traficului",
+          "country": "Funcție de blocare pe țări",
+          "port": "Funcție de închidere a porturilor"
+        }
+      },
+      "emailProtector": {
+        "title": "Securitate email",
+        "price": "$10/lună/cont",
+        "description": "Până la 10 emailuri pe zi\nEmailuri suplimentare: $0.035 fiecare",
+        "button": "Protejează emailul",
+        "features": {
+          "cmcEmail": "CMC cu cel mai avansat vizualizator de flux email",
+          "visibility": "Vizibilitate completă în CMC a tuturor emailurilor trimise și primite, cu clasificare automată a amenințărilor",
+          "webClient": "Client webmail securizat",
+          "phishing": "Protecție împotriva phishing-ului",
+          "malware": "Scanare pentru atașamente malware",
+          "links": "Detectare linkuri periculoase",
+          "spam": "Filtrare spam",
+          "fakeSender": "Protecție împotriva expeditorilor falși"
+        }
+      },
+      "securityTester": {
+        "title": "Detector de vulnerabilități",
+        "price": "$25/lună",
+        "description": "Până la 50 de verificări COMPLETE pe lună\nVerificări complete suplimentare: $0.5 fiecare",
+        "button": "Pornește testarea",
+        "features": {
+          "dynamic": "Detector dinamic de vulnerabilități",
+          "codeAnalyzer": "Analizator de cod",
+          "reports": "Rapoarte de securitate ușor de înțeles",
+          "intelligence": "Raport de inteligență"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Soluția noastră",
+    "sectionSubtitle": "Este gata în 4 minute și poate fi folosită de orice profesionist IT, fără experiență în securitate cibernetică. Oferim vizualizare avansată și un cost accesibil.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - monitorizare trafic la nivel CIA",
+        "description": "Globul nostru 3D interactiv oferă o vizualizare spectaculoasă a traficului web: solicitări pe secundă, utilizatori activi și volum în bytes.",
+        "bullets": {
+          "one": "Configurație simplă: introduce doar IP-ul și domeniul.",
+          "two": "Primește un IP de agent pentru DNS.",
+          "three": "Închide porturile pentru zero expunere."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - prima protecție email AI din lume",
+        "description": "Primul sistem comercial de protecție email bazat pe AI. Vizualizarea vectorială face ușoară urmărirea fluxului de email și identificarea amenințărilor.",
+        "bullets": {
+          "one": "Detectează spoofing, spam, phishing și malware.",
+          "two": "Administratorii pot adăuga conturi email pentru protecție.",
+          "three": "Cel mai avansat vizualizator comercial de flux email."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - testare de vulnerabilitate de nouă generație",
+        "description": "Sistemul furnizează un token de tip One-Time-Token (OTT) pentru verificări complete de securitate. Conectează-te prin browser sau extensia VS Code.",
+        "bullets": {
+          "one": "Definește în CMC domeniul și ținta securității.",
+          "two": "Introdu OTT și începe verificarea.",
+          "three": "Informații despre risc bazate pe inteligență."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Consola centralizată de management (CMC)",
+      "description": "Toate cele trei componente sunt gestionate dintr-o consolă unificată care oferă vizualizare centralizată, configurare și monitorizare simple, precum și rapoarte de securitate cuprinzătoare."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 de secunde",
+        "description": "Are loc un atac de hacker la fiecare 39 de secunde"
+      },
+      {
+        "title": "20M atacuri DDoS",
+        "description": "20,5M atacuri DDoS doar în trimestrul I 2025"
+      },
+      {
+        "title": "În fiecare zi",
+        "description": "30 000 de site-uri sunt sparte în fiecare zi"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Descoperă cum gândesc hackerii",
+    "description": "Urmărește-ne pentru cercetări zilnice despre metode reale de atac și amenințări cibernetice"
+  },
+  "modal": {
+    "title": "În curs de dezvoltare",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Realitatea atacurilor cibernetice"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Sistem de securitate web: site-ul/API-ul poate fi conectat în 2 minute",
+      "description": "Protecție împotriva atacurilor web precum DDoS, SQLi etc. Există și posibilitatea închiderii porturilor; o practică bună este dezactivarea portului 22 când nu este folosit"
+    },
+    "ciaMonitoring": {
+      "title": "Monitorizare trafic la nivel CIA",
+      "description": "Globul 3D interactiv arată volumul traficului după solicitări, utilizatori și volum, permițând vizualizarea istoricului de schimbare a numărului de utilizatori"
+    },
+    "userGrowth": {
+      "title": "Informații utile despre creșterea numărului de utilizatori",
+      "description": "Posibilitatea de a vedea istoricul modificărilor numărului de utilizatori"
+    },
+    "aiEmailProtection": {
+      "title": "Primul sistem AI de protecție email: rețeaua email se conectează în 2 minute",
+      "description": "CMC oferă administratorilor vizibilitate completă asupra tuturor emailurilor trimise și primite pentru conturile adăugate, cu clasificare automată a amenințărilor precum spoofing, spam, phishing, link periculos și malware."
+    },
+    "emailVisualization": {
+      "title": "Vizualizare pentru emailurile trimise și primite",
+      "description": "CMC cu cel mai avansat vizualizator comercial de flux email"
+    },
+    "secureWebmail": {
+      "title": "Client webmail securizat",
+      "description": "Pentru conturile adăugate de administrator, există un client webmail extrem de sigur care detectează și clasifică amenințări precum spoofing, spam, phishing și malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Contact:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Adresă:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Termeni de utilizare",
+      "termsService": "Termeni de serviciu",
+      "privacy": "Politica de confidențialitate",
+      "cookies": "Politica de cookie-uri"
+    },
+    "copyright": "© {year} Silence AI. Toate drepturile rezervate."
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Pilih bahasa",
+    "menuLabel": "Sila pilih bahasa"
+  },
+  "header": {
+    "nav": {
+      "main": "Laman utama",
+      "mail": "Emel",
+      "affiliate": "Program rakan kongsi",
+      "instructions": "Arahan"
+    },
+    "login": "Log masuk"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Sertai Program Rakan Kongsi Silence AI",
+      "title": "Tukar jemputan kepada pendapatan.",
+      "cta": "Sertai program rakan kongsi",
+      "earnings": "$2,940.00",
+      "growth": "+18% berbanding bulan lalu",
+      "snapshot": {
+        "label": "Tinjauan langsung",
+        "caption": "Prestasi dikemas kini setiap 60 saat dan pembayaran yang disahkan diselaraskan serta-merta."
+      },
+      "graph": {
+        "label": "Trend pendapatan",
+        "title": "Pertumbuhan pendapatan rujukan",
+        "window": "30 hari terakhir",
+        "label0": "Minggu 1",
+        "label1": "Minggu 2",
+        "label2": "Minggu 3",
+        "label3": "Minggu 4",
+        "label4": "Minggu 5",
+        "label5": "Minggu 6",
+        "label6": "Hari ini"
+      },
+      "metric": {
+        "conversion": "Pengaktifan",
+        "conversionChange": "24 pasukan baharu bulan ini",
+        "pending": "Ganjaran tertunda",
+        "pendingChange": "Pengeluaran diproses dalam 2 hari bekerja"
+      }
+    },
+    "howItWorks": {
+      "title": "Cara ia berfungsi",
+      "create": {
+        "title": "Cipta pautan anda",
+        "description": "Jana pautan rujukan atau kod promo unik dalam papan pemuka Silence AI anda."
+      },
+      "share": {
+        "title": "Kongsi",
+        "description": "Jemput pasukan melalui emel, LinkedIn dan komuniti. Jejaki prestasi secara masa nyata."
+      },
+      "earn": {
+        "title": "Jana pendapatan",
+        "description": "Terima komisen sebaik sahaja pelanggan rujukan anda mengaktifkan perlindungan Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Ganjaran baki",
+      "highlight": {
+        "label": "Mengapa rakan kongsi menyukainya"
+      },
+      "reward": {
+        "title": "Ganjaran 10% bagi setiap tambah nilai baki",
+        "description": "Apabila pasukan jemputan menambah nilai dompet Silence AI, 10% daripada jumlah bersih dikreditkan terus kepada anda."
+      },
+      "settlement": {
+        "title": "Penyelesaian buku besar masa nyata",
+        "description": "Ganjaran dimasukkan ke dalam baki rakan kongsi anda dalam masa seminit selepas transaksi selesai—tanpa giliran kelulusan manual."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Permintaan pengeluaran disemak secara automatik dan masuk ke akaun bank anda dalam tempoh dua hari bekerja."
+      },
+      "sample": {
+        "label": "Contoh tambah nilai",
+        "caption": "Pendapatan rakan kongsi meningkat dengan setiap tambah nilai—tiada tetapan semula peringkat atau pemetaan produk.",
+        "topup": "$250 tambah nilai → $25 ganjaran",
+        "topupHigher": "$1,000 tambah nilai → $100 ganjaran"
+      },
+      "note": "Komisen dikira daripada jumlah bersih selepas caj pemprosesan pembayaran."
+    },
+    "faq": {
+      "title": "Soalan & jawapan",
+      "payments": {
+        "question": "Bagaimana saya menerima pembayaran?",
+        "answer": "Tambahkan nombor kad VISA atau Mastercard anda dalam profil. Pembayaran boleh dipindahkan terus ke kad tersebut."
+      },
+      "discounts": {
+        "question": "Adakah pelanggan rujukan mendapat diskaun?",
+        "answer": "Tidak. Pelanggan yang dirujuk tidak menerima diskaun ke atas pembelian mereka; hanya rakan kongsi mendapat komisen daripada rujukan yang berjaya."
+      },
+      "statistics": {
+        "question": "Bilakah saya akan melihat statistik rujukan saya?",
+        "answer": "Sebaik sahaja pengguna mendaftar menggunakan kod promo atau pautan rujukan anda, emel dan ganjaran berkaitan akan dipaparkan dalam papan pemuka anda."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: keselamatan siber kini tidak mahal dan tidak rumit lagi",
+    "subheading": "Sistem keselamatan siber serba lengkap berasaskan AI yang menggabungkan:",
+    "playgroundHeading": "Lawatan 60 saat",
+    "bullets": {
+      "web": "Perlindungan serangan web masa nyata",
+      "email": "Perlindungan daripada serangan emel",
+      "vulnerability": "Pengesan kelemahan"
+    },
+    "buttons": {
+      "connect": "Sambung dalam 4 minit",
+      "tour": "Tonton lawatan 90 saat"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Perlindungan serangan web",
+        "content": "Sistem melindungi daripada SEMUA jenis serangan web seperti DDoS, SQLi dan lain-lain, kecuali kelemahan logik perniagaan"
+      },
+      "email": {
+        "title": "Perlindungan serangan emel",
+        "content": "Sistem melindungi daripada SEMUA jenis serangan emel seperti phishing, lampiran berniat jahat dan pautan berbahaya"
+      },
+      "vulnerability": {
+        "title": "Pengesan kelemahan",
+        "content": "Sistem mengesan kelemahan dalam kod aplikasi dan melalui interaksi dinamik dengan laman atau API anda, termasuk modul intelijen"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Keselamatan web & pengurusan trafik",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Notis kuki teknikal",
+    "description": "Laman ini hanya menggunakan kuki teknikal pihak pertama yang kami tetapkan untuk mengingati pilihan bahasa anda dan memastikan notis ini tidak muncul lagi ketika lawatan seterusnya. Tiada kuki penjejakan atau kuki pihak ketiga digunakan.",
+    "more": "Ketahui lanjut dalam",
+    "link": "Dasar Kuki kami",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Harga",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC dengan pemantauan trafik global",
+        "content": "Konsol Pengurusan Berpusat (CMC) bersepadu dengan lancar bersama sistem keselamatan lain dan menggunakan domain serta antara muka yang sama seperti Global Shield dan Security Tester. Dari sini anda boleh menyenaraihitamkan negara, menutup port dan melaksanakan operasi lain"
+      },
+      "countryBlacklisting": {
+        "title": "Senarai hitam negara",
+        "content": "Sekat semua trafik yang datang daripada negara tertentu"
+      },
+      "portManagement": {
+        "title": "Pengurusan port",
+        "content": "Tutup port yang tidak digunakan bagi mengurangkan permukaan serangan. Contohnya, nyahaktifkan port 22 jika akses SSH tidak diperlukan"
+      },
+      "cmcEmail": {
+        "title": "CMC dengan visualisasi aliran emel lanjutan",
+        "content": "CMC bersepadu dengan sistem keselamatan lain dan membolehkan anda memantau aliran emel serta menyemak mesej bagi semua pengguna korporat yang ditambah"
+      },
+      "dynamicVulnerability": {
+        "title": "Pengesan kelemahan dinamik",
+        "content": "Mengesan kelemahan dengan berinteraksi terus dengan laman anda, termasuk sokongan sistem intelijen"
+      },
+      "codeAnalyzer": {
+        "title": "Penganalisis kod",
+        "content": "Mengenal pasti isu keselamatan secara terus dalam kod melalui pemalam VS Code supaya ia boleh diperbaiki sebelum pelancaran"
+      },
+      "intelligenceReport": {
+        "title": "Laporan intelijen",
+        "content": "Menjana pandangan terperinci tentang sasaran anda, termasuk port terbuka, perkhidmatan yang berjalan, subdomain dan maklumat sensitif lain yang memerlukan tindakan"
+      },
+      "fullVulnerability": {
+        "title": "Semakan kelemahan PENUH",
+        "content": "Semakan penuh merangkumi pengimbasan kelemahan dinamik dan pengimbasan kod"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Keselamatan web & pengurusan trafik",
+        "price": "$0.06/GB",
+        "description": "Tiada had\\nTiada caj tambahan",
+        "button": "Lindungi aplikasi web & API",
+        "features": {
+          "webProtection": "Perlindungan terhadap semua jenis serangan web kecuali eksploitasi logik perniagaan",
+          "ddosProtection": "Perlindungan DDoS masa nyata",
+          "cmc": "CMC dengan pemantauan trafik global",
+          "country": "Fungsi senarai hitam negara",
+          "port": "Fungsi penutupan port"
+        }
+      },
+      "emailProtector": {
+        "title": "Keselamatan emel",
+        "price": "$10/bulan/akaun",
+        "description": "Sehingga 10 emel sehari\\nEmel tambahan: $0.035 setiap satu",
+        "button": "Lindungi emel",
+        "features": {
+          "cmcEmail": "CMC dengan visualisasi aliran emel paling maju",
+          "visibility": "Keterlihatan penuh emel masuk dan keluar untuk semua akaun dalam CMC, dengan kategorisasi ancaman automatik",
+          "webClient": "Klien webmail selamat",
+          "phishing": "Perlindungan phishing",
+          "malware": "Pengimbasan lampiran berniat jahat",
+          "links": "Pengesanan pautan berbahaya",
+          "spam": "Penapisan spam",
+          "fakeSender": "Perlindungan pengirim palsu"
+        }
+      },
+      "securityTester": {
+        "title": "Pengesan kelemahan",
+        "price": "$25/bulan",
+        "description": "Sehingga 50 semakan kelemahan PENUH sebulan\\nSemakan penuh tambahan: $0.5 setiap satu",
+        "button": "Mulakan ujian",
+        "features": {
+          "dynamic": "Pengesan kelemahan dinamik",
+          "codeAnalyzer": "Penganalisis kod",
+          "reports": "Laporan penilaian keselamatan yang mudah difahami",
+          "intelligence": "Laporan intelijen"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Penyelesaian kami",
+    "sectionSubtitle": "Sedia dalam 4 minit dan boleh digunakan oleh mana-mana profesional IT tanpa memerlukan kepakaran keselamatan siber. Kami menawarkan visualisasi lanjutan dan harga yang berpatutan.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - pemantauan trafik setaraf CIA",
+        "description": "Globus 3D interaktif kami memaparkan trafik web anda secara mengagumkan: permintaan sesaat, pengguna aktif dan volum dalam bait.",
+        "bullets": {
+          "one": "Persediaan mudah: hanya nyatakan IP dan domain anda.",
+          "two": "Terima IP ejen untuk ditambah ke DNS.",
+          "three": "Penutupan port untuk sifar pendedahan."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - perlindungan emel AI pertama di dunia",
+        "description": "Sistem perlindungan emel komersial pertama yang didorong AI. Paparan vektor memudahkan penjejakan aliran emel dari semasa ke semasa dan pengenalpastian ancaman.",
+        "bullets": {
+          "one": "Mengesan spoofing, spam, phishing dan malware.",
+          "two": "Admin boleh menambah akaun emel untuk dilindungi.",
+          "three": "Visualisasi aliran emel komersial paling maju."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - ujian kelemahan generasi baharu",
+        "description": "Sistem kami menyediakan Token Sekali Guna (OTT) untuk pemeriksaan keselamatan menyeluruh. Sambung sahaja melalui pelayar atau sambungan VS Code.",
+        "bullets": {
+          "one": "Nyatakan skop dan sasaran keselamatan dalam CMC.",
+          "two": "Tampal OTT dan mulakan pemeriksaan keselamatan.",
+          "three": "Wawasan risiko berpandukan intelijen."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Konsol Pengurusan Berpusat (CMC)",
+      "description": "Ketiga-tiga komponen diurus melalui konsol bersatu yang menyediakan visualisasi berpusat, konfigurasi dan pemantauan mudah, serta laporan keselamatan menyeluruh."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 saat",
+        "description": "Serangan penggodam berlaku setiap 39 saat"
+      },
+      {
+        "title": "20 juta serangan DDoS",
+        "description": "20.5 juta serangan DDoS hanya pada suku pertama 2025"
+      },
+      {
+        "title": "Setiap hari",
+        "description": "30,000 laman web digodam setiap hari"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Ketahui cara pemikiran penggodam",
+    "description": "Ikuti penyelidikan harian kami tentang kaedah serangan sebenar dan ancaman siber"
+  },
+  "modal": {
+    "title": "Sedang dibangunkan aktif",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Realiti serangan siber"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Sistem keselamatan web: laman atau API boleh disambung dalam 2 minit",
+      "description": "Perlindungan terhadap serangan web seperti DDoS dan SQLi. Terdapat juga keupayaan menutup port; amalan terbaik adalah menutup port 22 apabila tidak digunakan"
+    },
+    "ciaMonitoring": {
+      "title": "Pemantauan trafik setaraf CIA",
+      "description": "Globus 3D interaktif kami menunjukkan volum trafik mengikut permintaan, pengguna dan data, serta membolehkan anda melihat sejarah perubahan bilangan pengguna"
+    },
+    "userGrowth": {
+      "title": "Wawasan berguna tentang pertumbuhan pengguna",
+      "description": "Keupayaan melihat sejarah perubahan jumlah pengguna"
+    },
+    "aiEmailProtection": {
+      "title": "Sistem perlindungan emel berasaskan AI pertama di dunia: rangkaian emel boleh disambung dalam 2 minit",
+      "description": "CMC memberikan pentadbir pandangan penuh terhadap semua emel yang dihantar dan diterima untuk akaun yang ditambah, dengan kategorisasi ancaman automatik seperti spoofing, spam, phishing, pautan berbahaya dan malware."
+    },
+    "emailVisualization": {
+      "title": "Visualisasi emel yang dihantar dan diterima",
+      "description": "CMC dengan visualisasi aliran emel komersial paling maju"
+    },
+    "secureWebmail": {
+      "title": "Klien webmail selamat",
+      "description": "Untuk akaun yang ditambah oleh pentadbir, terdapat klien webmail paling selamat yang mengesan serta mengelaskan ancaman seperti spoofing, spam, phishing dan malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Hubungi:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Alamat:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Syarat penggunaan",
+      "termsService": "Syarat perkhidmatan",
+      "privacy": "Dasar privasi",
+      "cookies": "Dasar kuki"
+    },
+    "copyright": "© {year} Silence AI. Semua hak terpelihara."
+  }
+}

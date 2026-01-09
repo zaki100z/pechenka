@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Vyberte jazyk",
+    "menuLabel": "Zvolte jazyk"
+  },
+  "header": {
+    "nav": {
+      "main": "Hlavní",
+      "mail": "Pošta",
+      "affiliate": "Partnerský program",
+      "instructions": "Instrukce"
+    },
+    "login": "Přihlásit se"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Přidejte se k partnerskému programu Silence AI",
+      "title": "Proměňte pozvánky v příjmy.",
+      "cta": "Vstupte do partnerského programu",
+      "earnings": "$2,940.00",
+      "growth": "+18 % oproti minulému měsíci",
+      "snapshot": {
+        "label": "Živý přehled",
+        "caption": "Výsledky se aktualizují každých 60 sekund a potvrzené platby se ihned synchronizují."
+      },
+      "graph": {
+        "label": "Trend příjmů",
+        "title": "Růst příjmů z doporučení",
+        "window": "Posledních 30 dní",
+        "label0": "Týden 1",
+        "label1": "Týden 2",
+        "label2": "Týden 3",
+        "label3": "Týden 4",
+        "label4": "Týden 5",
+        "label5": "Týden 6",
+        "label6": "Dnes"
+      },
+      "metric": {
+        "conversion": "Aktivace",
+        "conversionChange": "24 nových týmů tento měsíc",
+        "pending": "Čekající odměny",
+        "pendingChange": "Výplaty se zpracují do 2 pracovních dnů"
+      }
+    },
+    "howItWorks": {
+      "title": "Jak to funguje",
+      "create": {
+        "title": "Vytvořte svůj odkaz",
+        "description": "Vytvořte v řídicím panelu Silence AI jedinečný referral odkaz nebo promo kód."
+      },
+      "share": {
+        "title": "Sdílejte",
+        "description": "Pozvěte týmy e-mailem, přes LinkedIn i komunity a sledujte výkon v reálném čase."
+      },
+      "earn": {
+        "title": "Vydělávejte",
+        "description": "Získejte provizi okamžitě poté, co doporučený zákazník aktivuje ochranu Silence AI."
+      }
+    },
+    "commission": {
+      "heading": "Odměny za zůstatek",
+      "highlight": {
+        "label": "Proč to partneři milují"
+      },
+      "reward": {
+        "title": "10% odměna za každé dobití",
+        "description": "Jakmile pozvaný tým dobijí svou Silence AI peněženku, 10 % čisté částky jde okamžitě vám."
+      },
+      "settlement": {
+        "title": "Zúčtování v reálném čase",
+        "description": "Odměny se připisují na partnerský zůstatek do jedné minuty po dokončení transakce – bez ručního schvalování."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Žádosti o výplatu se zpracují automaticky a prostředky dorazí na váš účet do dvou pracovních dnů."
+      },
+      "sample": {
+        "label": "Příklady dobití",
+        "caption": "Příjem partnera roste s každým dalším dobitím – bez restartu úrovní a bez mapování produktů.",
+        "topup": "$250 dobití → $25 odměna",
+        "topupHigher": "$1,000 dobití → $100 odměna"
+      },
+      "note": "Provize se počítá z čisté částky po odečtení poplatků za zpracování platby."
+    },
+    "faq": {
+      "title": "Otázky a odpovědi",
+      "payments": {
+        "question": "Jak obdržím platby?",
+        "answer": "Do profilu si můžete přidat číslo karty VISA nebo Mastercard. Výplaty lze převést přímo na uvedenou kartu."
+      },
+      "discounts": {
+        "question": "Získají doporučení zákazníci slevu?",
+        "answer": "Ne. Doporučení zákazníci nedostávají slevu na své nákupy. Provizi z úspěšných doporučení získává pouze partner."
+      },
+      "statistics": {
+        "question": "Kdy uvidím statistiky doporučení?",
+        "answer": "Jakmile se uživatel zaregistruje pomocí vašeho promo kódu nebo referral odkazu, jeho e-mail i odpovídající odměna se zobrazí v nástěnce."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: Kybernetická bezpečnost už není drahá ani složitá",
+    "subheading": "Komplexní systém kybernetické bezpečnosti založený na AI, který kombinuje:",
+    "playgroundHeading": "60sekundová prohlídka",
+    "bullets": {
+      "web": "Ochrana proti webovým útokům v reálném čase",
+      "email": "Ochrana proti e-mailovým útokům",
+      "vulnerability": "Vyhledávač zranitelností"
+    },
+    "buttons": {
+      "connect": "Připojte se za 4 minuty",
+      "tour": "Zhlédnout 90sekundové video"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Ochrana proti webovým útokům",
+        "content": "Systém dokáže chránit před VŠEMI typy webových útoků, jako jsou DDoS, SQLi a další, s výjimkou zranitelností v obchodní logice"
+      },
+      "email": {
+        "title": "Ochrana proti e-mailovým útokům",
+        "content": "Systém chrání před VŠEMI typy e-mailových útoků, například phishingem, škodlivými přílohami a nebezpečnými odkazy"
+      },
+      "vulnerability": {
+        "title": "Vyhledávač zranitelností",
+        "content": "Systém nachází zranitelnosti v kódu aplikace a dynamickou interakcí s vaším webem/API, včetně inteligentního modulu"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Webová bezpečnost a řízení provozu",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Upozornění na technické cookies",
+    "description": "Tento web používá pouze technické cookies první strany, které nastavujeme my, abychom si zapamatovali vaše jazykové preference a zajistili, že se toto oznámení při další návštěvě nezobrazí. Nepoužíváme žádné sledovací ani cookies třetích stran.",
+    "more": "Více zjistíte v naší",
+    "link": "Politice cookies",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Ceník",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC s globálním monitoringem provozu",
+        "content": "CMC (Centralized Management Console) se bezproblémově integruje s ostatními bezpečnostními systémy a běží na stejném doménovém jméně i rozhraní jako Global Shield a Security Tester. Odtud můžete blokovat celé země, zavírat porty a provádět další operace"
+      },
+      "countryBlacklisting": {
+        "title": "Blokování zemí",
+        "content": "Zablokujte veškerý provoz pocházející z konkrétní země"
+      },
+      "portManagement": {
+        "title": "Správa portů",
+        "content": "Zavřete nepoužívané porty, abyste snížili útočnou plochu. Například deaktivujte port 22, pokud není nutný přístup SSH"
+      },
+      "cmcEmail": {
+        "title": "CMC s pokročilou vizualizací e-mailového toku",
+        "content": "CMC se integruje s ostatními bezpečnostními systémy a umožňuje monitorovat e-mailové toky a kontrolovat poštu všech přidaných firemních uživatelů"
+      },
+      "dynamicVulnerability": {
+        "title": "Dynamické vyhledávání zranitelností",
+        "content": "Odhaluje zranitelnosti interakcí s vaším webem, včetně podpory inteligentního systému"
+      },
+      "codeAnalyzer": {
+        "title": "Analýza kódu",
+        "content": "Identifikuje problémy se zabezpečením přímo ve vaší kódové základně pomocí rozšíření VS Code, takže je můžete opravit ještě před nasazením"
+      },
+      "intelligenceReport": {
+        "title": "Zpravodajská zpráva",
+        "content": "Poskytuje detailní informace o vašem cíli – otevřené porty, běžící služby, subdomény a další citlivé údaje vyžadující akci"
+      },
+      "fullVulnerability": {
+        "title": "Kompletní kontrola zranitelností",
+        "content": "Kompletní kontrola zahrnuje jak dynamické skenování, tak skenování kódové základny"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Webová bezpečnost a řízení provozu",
+        "price": "$0.06/GB",
+        "description": "Bez limitů\nBez dodatečných poplatků",
+        "button": "Zabezpečte webové aplikace a API",
+        "features": {
+          "webProtection": "Ochrana proti všem typům webových útoků s výjimkou zneužití logiky aplikace",
+          "ddosProtection": "Ochrana proti DDoS v reálném čase",
+          "cmc": "CMC s globálním monitoringem provozu",
+          "country": "Funkce blokování zemí",
+          "port": "Funkce zavírání portů"
+        }
+      },
+      "emailProtector": {
+        "title": "E-mailová bezpečnost",
+        "price": "$10/měsíc/účet",
+        "description": "Až 10 e-mailů denně\nDalší e-maily: $0.035 za kus",
+        "button": "Zabezpečit e-mail",
+        "features": {
+          "cmcEmail": "CMC s nejpokročilejším vizualizátorem e-mailových toků",
+          "visibility": "Úplný přehled všech odeslaných a přijatých e-mailů v CMC s automatickou kategorizací hrozeb",
+          "webClient": "Bezpečný webmail klient",
+          "phishing": "Ochrana proti phishingu",
+          "malware": "Skenování škodlivých příloh",
+          "links": "Detekce nebezpečných odkazů",
+          "spam": "Filtrování spamu",
+          "fakeSender": "Ochrana proti falešným odesílatelům"
+        }
+      },
+      "securityTester": {
+        "title": "Vyhledávač zranitelností",
+        "price": "$25/měsíc",
+        "description": "Až 50 KOMPLETNÍCH kontrol měsíčně\nDalší kompletní kontroly: $0.5 za každou",
+        "button": "Začít testovat",
+        "features": {
+          "dynamic": "Dynamický vyhledávač zranitelností",
+          "codeAnalyzer": "Analýza kódu",
+          "reports": "Snadno srozumitelné bezpečnostní zprávy",
+          "intelligence": "Zpravodajská zpráva"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Naše řešení",
+    "sectionSubtitle": "Připravené za 4 minuty a použitelné pro každého IT odborníka – není potřeba znalost kybernetické bezpečnosti. Nabízíme pokročilou vizualizaci a dostupnou cenu.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield – monitorování provozu na úrovni CIA",
+        "description": "Náš interaktivní 3D globus poskytuje působivou vizualizaci vašeho webového provozu, zobrazuje požadavky za sekundu, aktivní uživatele a objem v bytech.",
+        "bullets": {
+          "one": "Snadné nasazení: stačí zadat IP adresu a doménu.",
+          "two": "Získáte agentní IP pro přidání do DNS.",
+          "three": "Uzavření portů pro nulovou expozici."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector – první AI ochrana e-mailu na světě",
+        "description": "První komerční systém ochrany e-mailu založený na AI. Vektorový pohled usnadňuje sledování e-mailového toku a identifikaci hrozeb.",
+        "bullets": {
+          "one": "Detekuje spoofing, spam, phishing a malware.",
+          "two": "Admin může přidat e-mailové účty k ochraně.",
+          "three": "Nejpokročilejší komerční vizualizátor e-mailových toků."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester – testování zranitelností nové generace",
+        "description": "Systém poskytuje jednorázový token (OTT) pro kompletní bezpečnostní kontroly. Stačí se připojit přes prohlížeč nebo rozšíření VS Code.",
+        "bullets": {
+          "one": "Definujte rozsah a cíl zabezpečení v CMC.",
+          "two": "Vložte OTT a spusťte kontrolu.",
+          "three": "Inteligentní vhledy do rizik."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Centralizovaná správcovská konzole (CMC)",
+      "description": "Všechny tři komponenty jsou spravovány prostřednictvím jedné konzole, která nabízí centralizovanou vizualizaci, snadnou konfiguraci, monitoring a komplexní bezpečnostní reporty."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 sekund",
+        "description": "Každých 39 sekund dojde k hackerskému útoku"
+      },
+      {
+        "title": "20 milionů DDoS útoků",
+        "description": "20,5 milionu DDoS útoků pouze v prvním čtvrtletí roku 2025"
+      },
+      {
+        "title": "Každý den",
+        "description": "Každý den je napadeno 30 000 webů"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Poznejte, jak přemýšlejí hackeři",
+    "description": "Sledujte nás pro každodenní analýzy reálných útoků a kybernetických hrozeb"
+  },
+  "modal": {
+    "title": "Aktivní vývoj",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Realita kybernetických útoků"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Webový bezpečnostní systém: web/API lze připojit za 2 minuty",
+      "description": "Ochrana proti webovým útokům jako DDoS, SQLi atd. Je k dispozici i možnost uzavírat porty; doporučuje se zavřít port 22, pokud se nepoužívá"
+    },
+    "ciaMonitoring": {
+      "title": "Monitorování provozu na úrovni CIA",
+      "description": "Náš interaktivní 3D globus zobrazuje objem provozu podle požadavků, uživatelů a objemu a umožňuje zobrazit historii změn počtu uživatelů"
+    },
+    "userGrowth": {
+      "title": "Užitečné vhledy do růstu uživatelů",
+      "description": "Možnost sledovat historii změn v počtu uživatelů"
+    },
+    "aiEmailProtection": {
+      "title": "První AI systém ochrany e-mailů na světě: e-mailová síť se připojí za 2 minuty",
+      "description": "CMC dává administrátorům plnou viditelnost nad všemi odeslanými a přijatými e-maily u přidaných účtů s automatickým tříděním hrozeb jako spoofing, spam, phishing, nebezpečné odkazy a malware."
+    },
+    "emailVisualization": {
+      "title": "Vizualizace odeslaných a přijatých e-mailů",
+      "description": "CMC s nejpokročilejší komerční vizualizací e-mailových toků"
+    },
+    "secureWebmail": {
+      "title": "Bezpečný webmail klient",
+      "description": "Pro účty přidané administrátorem je dostupný vysoce bezpečný webmail klient, který detekuje a kategorizuje hrozby jako spoofing, spam, phishing a malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Kontakt:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Adresa:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Podmínky použití",
+      "termsService": "Podmínky služby",
+      "privacy": "Zásady ochrany soukromí",
+      "cookies": "Zásady cookies"
+    },
+    "copyright": "© {year} Silence AI. Všechna práva vyhrazena."
+  }
+}

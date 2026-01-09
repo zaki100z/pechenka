@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Selecteer taal",
+    "menuLabel": "Kies een taal"
+  },
+  "header": {
+    "nav": {
+      "main": "Home",
+      "mail": "Mail",
+      "affiliate": "Affiliateprogramma",
+      "instructions": "Instructies"
+    },
+    "login": "Inloggen"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Doe mee aan het partnerprogramma van Silence AI",
+      "title": "Maak van uitnodigingen inkomsten.",
+      "cta": "Doe mee aan het partnerprogramma",
+      "earnings": "$2,940.00",
+      "growth": "+18% t.o.v. vorige maand",
+      "snapshot": {
+        "label": "Live overzicht",
+        "caption": "Prestatiecijfers worden elke 60 seconden bijgewerkt en bevestigde uitbetalingen worden direct gesynchroniseerd."
+      },
+      "graph": {
+        "label": "Inkomstentrend",
+        "title": "Groei van verwijzingsinkomsten",
+        "window": "Laatste 30 dagen",
+        "label0": "Week 1",
+        "label1": "Week 2",
+        "label2": "Week 3",
+        "label3": "Week 4",
+        "label4": "Week 5",
+        "label5": "Week 6",
+        "label6": "Vandaag"
+      },
+      "metric": {
+        "conversion": "Activaties",
+        "conversionChange": "24 nieuwe teams deze maand",
+        "pending": "In afwachting zijnde beloningen",
+        "pendingChange": "Uitbetalingen worden binnen 2 werkdagen verwerkt"
+      }
+    },
+    "howItWorks": {
+      "title": "Hoe het werkt",
+      "create": {
+        "title": "Maak je link aan",
+        "description": "Genereer een unieke verwijzingslink of promotiecode in je Silence AI-dashboard."
+      },
+      "share": {
+        "title": "Deel",
+        "description": "Nodig teams uit via e-mail, LinkedIn en communities. Volg de prestaties in realtime."
+      },
+      "earn": {
+        "title": "Verdien",
+        "description": "Ontvang commissie zodra je doorverwezen klanten Silence AI-beveiliging activeren."
+      }
+    },
+    "commission": {
+      "heading": "Saldo-beloningen",
+      "highlight": {
+        "label": "Daarom waarderen partners het"
+      },
+      "reward": {
+        "title": "10% beloning op elke saldo-opwaardering",
+        "description": "Wanneer een uitgenodigd team zijn Silence AI-portemonnee opwaardeert, gaat 10% van het nettobedrag direct naar jou."
+      },
+      "settlement": {
+        "title": "Realtime verwerking",
+        "description": "Beloningen worden binnen een minuut na afronding van de transactie toegevoegd aan je partnerbalans—zonder handmatige goedkeuring."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Ingediende uitbetalingsverzoeken worden automatisch gecontroleerd en bereikt je bankrekening binnen twee werkdagen."
+      },
+      "sample": {
+        "label": "Voorbeelden van opwaarderingen",
+        "caption": "Partnerinkomsten groeien bij elke opwaardering—geen terugzetting van niveaus en geen productmapping nodig.",
+        "topup": "$250 opwaardering → $25 beloning",
+        "topupHigher": "$1,000 opwaardering → $100 beloning"
+      },
+      "note": "De commissie wordt berekend over het nettobedrag na betalingsverwerkingskosten."
+    },
+    "faq": {
+      "title": "Vragen & antwoorden",
+      "payments": {
+        "question": "Hoe ontvang ik betalingen?",
+        "answer": "Voeg je VISA- of Mastercardnummer toe aan je profiel. Uitbetalingen kunnen rechtstreeks naar de opgegeven kaart worden overgemaakt."
+      },
+      "discounts": {
+        "question": "Krijgen doorverwezen klanten korting?",
+        "answer": "Nee. Doorverwezen klanten ontvangen geen korting op hun aankopen; alleen de partner verdient commissie op succesvolle verwijzingen."
+      },
+      "statistics": {
+        "question": "Wanneer zie ik mijn verwijzingsstatistieken?",
+        "answer": "Zodra een gebruiker zich registreert met jouw promo code of verwijzingslink, verschijnen hun e-mailadres en bijbehorende beloning in je dashboard."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: cybersecurity is niet langer duur of ingewikkeld",
+    "subheading": "Het alles-in-één cyberbeveiligingssysteem op basis van AI dat het volgende combineert:",
+    "playgroundHeading": "60-seconden-tour",
+    "bullets": {
+      "web": "Realtime bescherming tegen webaanvallen",
+      "email": "Bescherming tegen e-mailaanvallen",
+      "vulnerability": "Vulnerabiliteitsscanner"
+    },
+    "buttons": {
+      "connect": "Verbind in 4 minuten",
+      "tour": "Bekijk de tour van 90 seconden"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Bescherming tegen webaanvallen",
+        "content": "Het systeem beschermt tegen ALLE soorten webaanvallen zoals DDoS, SQLi en meer, behalve kwetsbaarheden in de bedrijfslogica"
+      },
+      "email": {
+        "title": "Bescherming tegen e-mailaanvallen",
+        "content": "Het systeem beschermt tegen ALLE soorten e-mailaanvallen, zoals phishing, kwaadaardige bijlagen en gevaarlijke links"
+      },
+      "vulnerability": {
+        "title": "Vulnerabiliteitsscanner",
+        "content": "Het systeem vindt kwetsbaarheden in de applicatiecode en via dynamische interactie met je website/API, ondersteund door het intelligentieplatform"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Webbeveiliging & verkeersbeheer",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Kennisgeving technische cookies",
+    "description": "Deze website gebruikt alleen technische first-party cookies die door ons zijn ingesteld om je taalvoorkeur te onthouden en te voorkomen dat deze melding opnieuw verschijnt. Er worden geen tracking- of third-party cookies gebruikt.",
+    "more": "Lees meer in ons",
+    "link": "Cookiebeleid",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Prijzen",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC met wereldwijde verkeersmonitoring",
+        "content": "De Centralized Management Console (CMC) integreert naadloos met andere beveiligingssystemen en gebruikt hetzelfde domein en dezelfde interface als Global Shield en Security Tester. Van hieruit kun je landen blokkeren, poorten sluiten en andere acties uitvoeren"
+      },
+      "countryBlacklisting": {
+        "title": "Landblokkering",
+        "content": "Blokkeer al het verkeer uit een specifiek land"
+      },
+      "portManagement": {
+        "title": "Poortbeheer",
+        "content": "Sluit ongebruikte poorten om het aanvalsoppervlak te verkleinen. Schakel bijvoorbeeld poort 22 uit als SSH niet nodig is"
+      },
+      "cmcEmail": {
+        "title": "CMC met geavanceerde e-mailflowvisualisatie",
+        "content": "De CMC integreert met andere beveiligingssystemen en maakt het mogelijk e-mailstromen te monitoren en berichten te beoordelen voor alle toegevoegde zakelijke gebruikers"
+      },
+      "dynamicVulnerability": {
+        "title": "Dynamische kwetsbaarheidsscanner",
+        "content": "Detecteert kwetsbaarheden door rechtstreeks met je website te communiceren, ondersteund door het intelligentiesysteem"
+      },
+      "codeAnalyzer": {
+        "title": "Code-analyse",
+        "content": "Spoort beveiligingsproblemen in je codebasis op met een VS Code-plugin zodat je ze vóór de release kunt verhelpen"
+      },
+      "intelligenceReport": {
+        "title": "Intelligencerapport",
+        "content": "Levert gedetailleerde inzichten in je doelwit, waaronder open poorten, draaiende services, subdomeinen en andere gevoelige informatie die actie vereist"
+      },
+      "fullVulnerability": {
+        "title": "VOLLEDIGE kwetsbaarheidscheck",
+        "content": "Een volledige check combineert zowel een dynamische scan als een scan van de codebasis"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Webbeveiliging & verkeersbeheer",
+        "price": "$0.06/GB",
+        "description": "Geen limieten\nGeen extra kosten",
+        "button": "Beveilig webapps en API's",
+        "features": {
+          "webProtection": "Bescherming tegen alle webaanvallen, behalve exploitatie van bedrijfslogica",
+          "ddosProtection": "Realtime DDoS-bescherming",
+          "cmc": "CMC met wereldwijde verkeersmonitoring",
+          "country": "Landblokkering",
+          "port": "Poorten sluiten"
+        }
+      },
+      "emailProtector": {
+        "title": "E-mailbeveiliging",
+        "price": "$10/maand/account",
+        "description": "Tot 10 e-mails per dag\nExtra e-mails: $0.035 per stuk",
+        "button": "Beveilig e-mail",
+        "features": {
+          "cmcEmail": "CMC met de meest geavanceerde e-mailflowvisualisatie",
+          "visibility": "Volledig zicht in de CMC op alle verzonden en ontvangen e-mails, met automatische dreigingsclassificatie",
+          "webClient": "Beveiligde webmailclient",
+          "phishing": "Bescherming tegen phishing",
+          "malware": "Scan van malware-bijlagen",
+          "links": "Detectie van gevaarlijke links",
+          "spam": "Spamfiltering",
+          "fakeSender": "Bescherming tegen vervalste afzenders"
+        }
+      },
+      "securityTester": {
+        "title": "Kwetsbaarheidsscanner",
+        "price": "$25/maand",
+        "description": "Tot 50 VOLLEDIGE scans per maand\nExtra volledige scans: $0.5 per stuk",
+        "button": "Start testen",
+        "features": {
+          "dynamic": "Dynamische kwetsbaarheidsscanner",
+          "codeAnalyzer": "Code-analyse",
+          "reports": "Simpel te begrijpen beveiligingsrapporten",
+          "intelligence": "Intelligencerapport"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Onze oplossing",
+    "sectionSubtitle": "Binnen 4 minuten klaar voor gebruik en geschikt voor elke IT-professional – geen expertise in cybersecurity vereist. We bieden geavanceerde visualisatie en betaalbaarheid.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - verkeerbewaking op CIA-niveau",
+        "description": "Onze interactieve 3D-globe geeft een indrukwekkende visualisatie van je webverkeer, met verzoeken per seconde, actieve gebruikers en datavolume in bytes.",
+        "bullets": {
+          "one": "Eenvoudige setup: vul je IP en domein in.",
+          "two": "Ontvang een agent-IP voor je DNS.",
+          "three": "Sluit poorten voor nul blootstelling."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - 's werelds eerste AI-e-mailbescherming",
+        "description": "Het eerste commerciële e-mailbeveiligingssysteem op basis van AI. De vectorweergave maakt het eenvoudig om e-mailstromen in de tijd te volgen en dreigingen te herkennen.",
+        "bullets": {
+          "one": "Detecteert spoofing, spam, phishing en malware.",
+          "two": "Beheerders kunnen e-mailaccounts toevoegen voor bescherming.",
+          "three": "De meest geavanceerde commerciële e-mailflowvisualisatie."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - kwetsbaarheidstesten van de nieuwe generatie",
+        "description": "Het systeem levert een One-Time-Token (OTT) voor volledige beveiligingscontroles. Verbind via onze browser of VS Code-extensie.",
+        "bullets": {
+          "one": "Definieer scope en doel in de CMC.",
+          "two": "Voer de OTT in en start de controle.",
+          "three": "Risico-inzichten gedreven door intelligence."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Gecentraliseerde beheersconsole (CMC)",
+      "description": "Alle drie componenten worden beheerd in één console die gecentraliseerde visualisatie, eenvoudige configuratie en monitoring, en uitgebreide beveiligingsrapportage biedt."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 seconden",
+        "description": "Elke 39 seconden vindt een hackeraanval plaats"
+      },
+      {
+        "title": "20 miljoen DDoS-aanvallen",
+        "description": "20,5 miljoen DDoS-aanvallen in alleen Q1 2025"
+      },
+      {
+        "title": "Elke dag",
+        "description": "30.000 websites worden iedere dag gehackt"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Ontdek hoe hackers denken",
+    "description": "Volg ons voor dagelijkse onderzoeken naar echte aanvalsmethoden en cyberdreigingen"
+  },
+  "modal": {
+    "title": "Actief in ontwikkeling",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "De realiteit van cyberaanvallen"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Webbeveiligingssysteem: website/API binnen 2 minuten gekoppeld",
+      "description": "Bescherming tegen webaanvallen zoals DDoS en SQLi. Poorten kunnen worden gesloten; het is verstandig om poort 22 uit te schakelen wanneer die niet nodig is"
+    },
+    "ciaMonitoring": {
+      "title": "Verkeerbewaking op CIA-niveau",
+      "description": "Onze interactieve 3D-globe toont verkeer op basis van verzoeken, gebruikers en volume, inclusief het historisch overzicht van gebruikersaantallen"
+    },
+    "userGrowth": {
+      "title": "Handige inzichten in gebruikersgroei",
+      "description": "Bekijk de geschiedenis van veranderingen in het aantal gebruikers"
+    },
+    "aiEmailProtection": {
+      "title": "Werelds eerste AI-e-mailbescherming: e-mailnetwerk in 2 minuten verbonden",
+      "description": "De CMC geeft beheerders volledig inzicht in alle verzonden en ontvangen e-mails voor toegevoegde accounts, met automatische dreigingsclassificatie zoals spoofing, spam, phishing, gevaarlijke links en malware."
+    },
+    "emailVisualization": {
+      "title": "Visualisatie van verzonden en ontvangen e-mails",
+      "description": "CMC met de meest geavanceerde commerciële e-mailflowvisualisatie"
+    },
+    "secureWebmail": {
+      "title": "Beveiligde webmailclient",
+      "description": "Voor accounts die door de admin zijn toegevoegd, is er een zeer veilige webmailclient die spoofing, spam, phishing en malware detecteert en classificeert."
+    }
+  },
+  "footer": {
+    "contactLabel": "Contact:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Adres:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Gebruiksvoorwaarden",
+      "termsService": "Servicevoorwaarden",
+      "privacy": "Privacybeleid",
+      "cookies": "Cookiebeleid"
+    },
+    "copyright": "© {year} Silence AI. Alle rechten voorbehouden."
+  }
+}

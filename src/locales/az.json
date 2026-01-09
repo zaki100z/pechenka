@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Dili seçin",
+    "menuLabel": "Dil seç"
+  },
+  "header": {
+    "nav": {
+      "main": "Əsas səhifə",
+      "mail": "Poçt",
+      "affiliate": "Tərəfdaş proqramı",
+      "instructions": "Təlimatlar"
+    },
+    "login": "Daxil ol"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Silence AI Tərəfdaş Proqramına qoşulun",
+      "title": "Dəvətnamələri gəlirə çevirin.",
+      "cta": "Tərəfdaş proqramına qoşulun",
+      "earnings": "$2,940.00",
+      "growth": "+18% keçən ayla müqayisədə",
+      "snapshot": {
+        "label": "Canlı xülasə",
+        "caption": "Performans hər 60 saniyədən bir yenilənir, təsdiqlənmiş ödənişlər dərhal sinxronlaşır."
+      },
+      "graph": {
+        "label": "Gəlir tendensiyası",
+        "title": "Tövsiyə gəlirinin artımı",
+        "window": "Son 30 gün",
+        "label0": "1-ci həftə",
+        "label1": "2-ci həftə",
+        "label2": "3-cü həftə",
+        "label3": "4-cü həftə",
+        "label4": "5-ci həftə",
+        "label5": "6-cı həftə",
+        "label6": "Bu gün"
+      },
+      "metric": {
+        "conversion": "Aktivasiyalar",
+        "conversionChange": "Bu ay 24 yeni komanda",
+        "pending": "Gözləyən mükafatlar",
+        "pendingChange": "Nağdlaşdırmalar 2 iş günü ərzində emal olunur"
+      }
+    },
+    "howItWorks": {
+      "title": "Necə işləyir",
+      "create": {
+        "title": "Linkinizi yaradın",
+        "description": "Silence AI panelində unikal yönləndirmə linki və ya promo kod yaradın."
+      },
+      "share": {
+        "title": "Paylaşın",
+        "description": "Komandaları e-poçt, LinkedIn və icmalar vasitəsilə dəvət edin. Performansı real vaxtda izləyin."
+      },
+      "earn": {
+        "title": "Qazanın",
+        "description": "Tövsiyə etdiyiniz müştərilər Silence AI mühafizəsini aktiv etdikdən dərhal sonra komissiya qazanın."
+      }
+    },
+    "commission": {
+      "heading": "Balans mükafatları",
+      "highlight": {
+        "label": "Tərəfdaşların bu sistemi sevməsinin səbəbi"
+      },
+      "reward": {
+        "title": "Hər balans doldurmasına 10% mükafat",
+        "description": "Dəvət etdiyiniz komanda Silence AI cüzdanını dolduranda, xalis məbləğin 10%-i dərhal sizə köçürülür."
+      },
+      "settlement": {
+        "title": "Reall vaxtda uçotda əks olunma",
+        "description": "Əməliyyat təsdiqləndikdən sonra mükafatlar bir dəqiqə ərzində tərəfdaş balansınıza yazılır — əl təsdiqi tələb olunmur."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Göndərilən çıxarış sorğuları avtomatik yoxlanılır və iki iş günü ərzində bank hesabınıza çatır."
+      },
+      "sample": {
+        "label": "Balans doldurma nümunələri",
+        "caption": "Hər doldurma ilə tərəfdaş gəliri artır — səviyyələr sıfırlanmır, məhsul uyğunlaşdırması tələb olunmur.",
+        "topup": "$250 doldurma → $25 mükafat",
+        "topupHigher": "$1,000 doldurma → $100 mükafat"
+      },
+      "note": "Komissiya ödəniş emalı haqları çıxdıqdan sonra xalis məbləğdən hesablanır."
+    },
+    "faq": {
+      "title": "Suallar və cavablar",
+      "payments": {
+        "question": "Ödənişləri necə alım?",
+        "answer": "Profilinizə VISA və ya Mastercard nömrənizi əlavə edə bilərsiniz. Ödənişlər göstərilən karta birbaşa köçürülə bilər."
+      },
+      "discounts": {
+        "question": "Tövsiyə olunan müştərilər endirim alır?",
+        "answer": "Xeyr. Tövsiyə olunan müştərilər alışlarında endirim almırlar. Yalnız tərəfdaş uğurlu yönləndirmələrdən komissiya qazanır."
+      },
+      "statistics": {
+        "question": "Referal statistikamı nə vaxt görəcəyəm?",
+        "answer": "İstifadəçi promo kodunuz və ya yönləndirmə linkinizlə qeydiyyatdan keçən kimi, onun e-poçtu və müvafiq mükafatı panelinizdə görünəcək."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: kibertəhlükəsizlik artıq nə bahalıdır, nə də mürəkkəb",
+    "subheading": "AI əsaslı, bütün komponentləri birləşdirən kibertəhlükəsizlik sistemi:",
+    "playgroundHeading": "60 saniyəlik tur",
+    "bullets": {
+      "web": "Veb hücumlara qarşı real vaxtda qoruma",
+      "email": "E-poçt hücumlarına qarşı müdafiə",
+      "vulnerability": "Zəiflik axtarıcısı"
+    },
+    "buttons": {
+      "connect": "4 dəqiqəyə qoşul",
+      "tour": "90 saniyəlik tura bax"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Veb hücumlara qarşı müdafiə",
+        "content": "Sistem biznes məntiqi zəiflikləri istisna olmaqla, DDoS, SQLi və digər bütün veb hücumlarını bloklayır"
+      },
+      "email": {
+        "title": "E-poçt hücumlarına qarşı müdafiə",
+        "content": "Sistem fishing, zərərli əlavələr, təhlükəli linklər daxil olmaqla bütün e-poçt hücumlarına qarşı qoruyur"
+      },
+      "vulnerability": {
+        "title": "Zəiflik axtarıcısı",
+        "content": "Sistem tətbiqin kodundakı zəiflikləri və sayt/API ilə dinamik qarşılıqlı əlaqə sayəsində, intellektual modulun dəstəyi ilə aşkar edir"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Veb təhlükəsizliyi və trafik idarəetməsi",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Texniki kukilər barədə bildiriş",
+    "description": "Bu sayt növbəti səfərdə bildiriş yenidən görünməsin deyə, dil seçimini yadda saxlamaq üçün yalnız birinci tərəf texniki kukilərindən istifadə edir. İzləmə və ya üçüncü tərəf kukiləri tətbiq olunmur.",
+    "more": "Ətraflı məlumat üçün",
+    "link": "Kuki siyasətimizə baxın",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Qiymətlər",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "Qlobal trafik monitorinqi olan CMC",
+        "content": "Mərkəzləşdirilmiş İdarəetmə Konsolu (CMC) digər təhlükəsizlik sistemləri ilə inteqrasiya olunur və Global Shield və Security Tester ilə eyni domen və interfeysdən istifadə edir. Buradan ölkələri qara siyahıya sala, portları bağlaya və digər əməliyyatları apara bilərsiniz"
+      },
+      "countryBlacklisting": {
+        "title": "Ölkə üzrə bloklama",
+        "content": "Xüsusi bir ölkədən gələn trafikin hamısını dayandırın"
+      },
+      "portManagement": {
+        "title": "Portların idarə edilməsi",
+        "content": "Hücum səthini azaltmaq üçün istifadə olunmayan portları bağlayın; məsələn, SSH lazım deyilsə 22-ci portu deaktiv edin"
+      },
+      "cmcEmail": {
+        "title": "CMC-də inkişaf etmiş e-poçt vizuallaşdırması",
+        "content": "CMC digər təhlükəsizlik sistemləri ilə birlikdə işləyir və əlavə etdiyiniz bütün korporativ istifadəçilər üçün e-poçt axınını izləməyə imkan verir"
+      },
+      "dynamicVulnerability": {
+        "title": "Dinamik zəiflik axtarıcısı",
+        "content": "Saytınızla birbaşa qarşılıqlı əlaqə quraraq, süni intellekt sistemi dəstəyi ilə zəiflikləri aşkar edir"
+      },
+      "codeAnalyzer": {
+        "title": "Kod analizatoru",
+        "content": "VS Code əlavəsi vasitəsilə kod bazasındakı təhlükəsizlik problemlərini əvvəlcədən tapır və düzəltməyə kömək edir"
+      },
+      "intelligenceReport": {
+        "title": "Kəşfiyyat hesabatı",
+        "content": "Hədəfiniz barədə açıq portlar, çalışan xidmətlər, subdomenlər və tədbir tələb edən digər həssas məlumatlarla bağlı ətraflı məlumat yaradır"
+      },
+      "fullVulnerability": {
+        "title": "TAM zəiflik yoxlanışı",
+        "content": "Tam yoxlama həm dinamik, həm də kod bazası skanını əhatə edir"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Veb təhlükəsizliyi və trafik idarəetməsi",
+        "price": "$0.06/GB",
+        "description": "Limit yoxdur\nƏlavə ödəniş yoxdur",
+        "button": "Veb tətbiqləri və API-ləri qoruyun",
+        "features": {
+          "webProtection": "Biznes məntiqi istismarları istisna olmaqla bütün veb hücumlarından müdafiə",
+          "ddosProtection": "Canlı DDoS qoruması",
+          "cmc": "Qlobal trafik monitorinqi olan CMC",
+          "country": "Ölkə bloklama funksiyası",
+          "port": "Portları bağlama funksiyası"
+        }
+      },
+      "emailProtector": {
+        "title": "E-poçt təhlükəsizliyi",
+        "price": "$10/ay/hesab",
+        "description": "Günə 10 e-poçt\nƏlavə e-poçt: hər biri $0.035",
+        "button": "E-poçtu qoruyun",
+        "features": {
+          "cmcEmail": "CMC-də ən qabaqcıl e-poçt axını vizuallaşdırıcısı",
+          "visibility": "CMC daxilində bütün hesabların göndərilən və qəbul edilən e-poçtlarına tam baxış, avtomatik təhdid sinfi ilə",
+          "webClient": "Təhlükəsiz webmail müştərisi",
+          "phishing": "Phishing-ə qarşı müdafiə",
+          "malware": "Zərərli əlavələri skan etmə",
+          "links": "Təhlükəli linklərin aşkarlanması",
+          "spam": "Spam filtrləmə",
+          "fakeSender": "Saxta göndəriciyə qarşı qoruma"
+        }
+      },
+      "securityTester": {
+        "title": "Zəiflik axtarıcısı",
+        "price": "$25/ay",
+        "description": "Ayda 50-ə qədər TAM yoxlama\nƏlavə tam yoxlama: hər biri $0.5",
+        "button": "Testə başla",
+        "features": {
+          "dynamic": "Dinamik zəiflik axtarışı",
+          "codeAnalyzer": "Kod analizatoru",
+          "reports": "Asan başa düşülən təhlükəsizlik hesabatları",
+          "intelligence": "Kəşfiyyat hesabatı"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Həllimiz",
+    "sectionSubtitle": "4 dəqiqəyə hazır olur və hər bir IT mütəxəssisi tərəfindən, kibertəhlükəsizlik biliyi olmadan istifadə oluna bilər. Biz inkişaf etmiş vizuallaşdırma və əlçatan qiymət təklif edirik.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - CIA səviyyəli trafik monitorinqi",
+        "description": "İnteraktiv 3D qlobusumuz veb trafikinizi gözoxşayan şəkildə göstərir: saniyəyə sorğular, aktiv istifadəçilər və həcmi (baytlarla).",
+        "bullets": {
+          "one": "Sadə qurulum: IP və domeninizi göstərin.",
+          "two": "DNS-ə əlavə etmək üçün agent IP-si əldə edin.",
+          "three": "Tam qorunma üçün portları bağlayın."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - dünyanın ilk AI əsaslı e-poçt qorunması",
+        "description": "AI ilə işləyən ilk kommersiya e-poçt təhlükəsizlik sistemi. Vektor görünüşü e-poçt axınını izləməyi və təhdidləri müəyyənləşdirməyi asanlaşdırır.",
+        "bullets": {
+          "one": "Spoofing, spam, phishing və malware-i aşkarlayır.",
+          "two": "Adminlər qoruma üçün e-poçt hesabları əlavə edə bilər.",
+          "three": "Ən qabaqcıl kommersiya e-poçt axını vizuallaşdırıcısı."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - növbəti nəsil zəiflik testi",
+        "description": "Sistem tam təhlükəsizlik yoxlamaları üçün birdəfəlik token (OTT) təqdim edir. Brauzer və ya VS Code genişlənməsi vasitəsilə qoşulun.",
+        "bullets": {
+          "one": "CMC-də təhlükəsizlik sahəsini və hədəfi müəyyən edin.",
+          "two": "OTT-ni daxil edib yoxlamanı başladın.",
+          "three": "Kəşfiyyata əsaslanan risk analizi."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Mərkəzləşdirilmiş İdarəetmə Konsolu (CMC)",
+      "description": "Üç komponent də birləşdirilmiş konsol vasitəsilə idarə olunur; bu, mərkəzləşdirilmiş vizuallaşdırma, asan konfiqurasiya və monitorinq, həmçinin əhatəli təhlükəsizlik hesabatları təqdim edir."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 saniyə",
+        "description": "Hər 39 saniyədən bir haker hücumu baş verir"
+      },
+      {
+        "title": "20 milyon DDoS hücumu",
+        "description": "Təkcə 2025-ci ilin I rübündə 20,5 milyon DDoS hücumu qeydə alınıb"
+      },
+      {
+        "title": "Hər gün",
+        "description": "Hər gün 30 000 sayt sındırılır"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Hakerlərin necə düşündüyünü kəşf edin",
+    "description": "Həqiqi hücum metodları və kibertəhlükələr barədə gündəlik araşdırmalarımızı izləyin"
+  },
+  "modal": {
+    "title": "Aktiv inkişaf mərhələsindədir",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Kiberhücumların reallığı"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Veb təhlükəsizlik sistemi: sayt/API 2 dəqiqədə qoşula bilər",
+      "description": "DDoS, SQLi kimi veb hücumlarından qoruma. Portları bağlama imkanı var; 22-ci port istifadə olunmadıqda bağlamaq yaxşı təcrübədir"
+    },
+    "ciaMonitoring": {
+      "title": "CIA səviyyəli trafik monitorinqi",
+      "description": "İnteraktiv 3D qlobus sorğular, istifadəçilər və həcm üzrə trafiki göstərir və istifadəçi sayının dəyişmə tarixçəsini izləməyə imkan verir"
+    },
+    "userGrowth": {
+      "title": "İstifadəçi artımı haqqında faydalı məlumatlar",
+      "description": "İstifadəçi sayındakı dəyişikliklərin tarixçəsini görmək imkanı"
+    },
+    "aiEmailProtection": {
+      "title": "Dünyanın ilk AI əsaslı e-poçt müdafiəsi: e-poçt şəbəkəsi 2 dəqiqədə qoşulur",
+      "description": "CMC administratorlara əlavə olunan hesablar üçün göndərilən və qəbul olunan bütün e-poçtlara tam nəzarət verir və spoofing, spam, phishing, təhlükəli linklər, malware kimi təhdidləri avtomatik təsnif edir."
+    },
+    "emailVisualization": {
+      "title": "Göndərilən və qəbul olunan e-poçtların vizuallaşdırılması",
+      "description": "CMC daxilində ən inkişaf etmiş kommersiya e-poçt axını vizuallaşdırıcısı"
+    },
+    "secureWebmail": {
+      "title": "Təhlükəsiz webmail müştərisi",
+      "description": "Admin tərəfindən əlavə olunan hesablar üçün spoofing, spam, phishing və malware təhlükələrini aşkar edən ən təhlükəsiz webmail müştərisi"
+    }
+  },
+  "footer": {
+    "contactLabel": "Əlaqə:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Ünvan:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "İstifadə şərtləri",
+      "termsService": "Xidmət şərtləri",
+      "privacy": "Məxfilik siyasəti",
+      "cookies": "Kuki siyasəti"
+    },
+    "copyright": "© {year} Silence AI. Bütün hüquqlar qorunur."
+  }
+}

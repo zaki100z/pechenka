@@ -1,0 +1,10 @@
+<svg width="566" height="166" viewBox="0 0 566 166" fill="none" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision">
+  <!-- Simplified high-quality gradient edge -->
+  <path d="M0 0C0 41.639 29.2892 81.5725 81.4243 111.016C133.559 140.459 204.27 157 278 157C351.73 157 422.441 140.459 474.576 111.016C526.711 81.5726 556 41.639 556 0Z" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="278" y1="0" x2="278" y2="157" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF00B7" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF00B7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

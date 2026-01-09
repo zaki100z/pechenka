@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "言語を選択",
+    "menuLabel": "言語を選んでください"
+  },
+  "header": {
+    "nav": {
+      "main": "ホーム",
+      "mail": "メール",
+      "affiliate": "アフィリエイト",
+      "instructions": "手順"
+    },
+    "login": "ログイン"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Silence AI のパートナープログラムに参加しましょう",
+      "title": "招待を収益に変えよう。",
+      "cta": "パートナープログラムに参加する",
+      "earnings": "$2,940.00",
+      "growth": "+18%（前月比）",
+      "snapshot": {
+        "label": "ライブスナップショット",
+        "caption": "パフォーマンスは60秒ごとに更新され、確定した支払いは即座に同期されます。"
+      },
+      "graph": {
+        "label": "収益トレンド",
+        "title": "紹介収益の成長",
+        "window": "直近30日間",
+        "label0": "第1週",
+        "label1": "第2週",
+        "label2": "第3週",
+        "label3": "第4週",
+        "label4": "第5週",
+        "label5": "第6週",
+        "label6": "今日"
+      },
+      "metric": {
+        "conversion": "有効化",
+        "conversionChange": "今月は新規24チーム",
+        "pending": "保留中の報酬",
+        "pendingChange": "出金は営業日2日以内に処理されます"
+      }
+    },
+    "howItWorks": {
+      "title": "仕組み",
+      "create": {
+        "title": "リンクを作成",
+        "description": "Silence AI ダッシュボードで独自の紹介リンクまたはプロモコードを作成します。"
+      },
+      "share": {
+        "title": "共有",
+        "description": "メール、LinkedIn、コミュニティを通じてチームを招待し、リアルタイムで成果を追跡します。"
+      },
+      "earn": {
+        "title": "収益化",
+        "description": "紹介した顧客が Silence AI の保護を有効化するとすぐにコミッションを受け取ります。"
+      }
+    },
+    "commission": {
+      "heading": "残高リワード",
+      "highlight": {
+        "label": "パートナーが喜ぶ理由"
+      },
+      "reward": {
+        "title": "残高チャージごとに10%のリワード",
+        "description": "招待したチームが Silence AI ウォレットをチャージすると、純額の10%が即座にあなたに入ります。"
+      },
+      "settlement": {
+        "title": "リアルタイム台帳反映",
+        "description": "取引完了から1分以内にリワードがパートナー残高へ反映され、手動承認は不要です。"
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "出金リクエストは自動で審査され、営業日2日以内に銀行口座へ入金されます。"
+      },
+      "sample": {
+        "label": "チャージ例",
+        "caption": "各チャージでパートナー収益が伸びます—レベルリセットや製品のマッピングは不要です。",
+        "topup": "$250 チャージ → $25 リワード",
+        "topupHigher": "$1,000 チャージ → $100 リワード"
+      },
+      "note": "コミッションは支払い処理手数料を差し引いた純額に対して計算されます。"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "payments": {
+        "question": "支払いはどのように受け取りますか？",
+        "answer": "プロフィールに VISA または Mastercard の番号を登録すると、指定カードへ直接出金できます。"
+      },
+      "discounts": {
+        "question": "紹介された顧客に割引はありますか？",
+        "answer": "いいえ。紹介された顧客に割引はなく、成功した紹介のコミッションはパートナーのみが受け取ります。"
+      },
+      "statistics": {
+        "question": "紹介統計はいつ確認できますか？",
+        "answer": "ユーザーがプロモコードや紹介リンクで登録すると、そのメールアドレスとリワードがダッシュボードに表示されます。"
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1：サイバーセキュリティはもう高価でも複雑でもない",
+    "subheading": "AIを基盤にしたオールインワンのサイバーセキュリティシステムが提供するもの：",
+    "playgroundHeading": "60秒ツアー",
+    "bullets": {
+      "web": "リアルタイムのWeb攻撃防御",
+      "email": "メール攻撃からの防御",
+      "vulnerability": "脆弱性ファインダー"
+    },
+    "buttons": {
+      "connect": "4分で接続",
+      "tour": "90秒ツアーを見る"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Web攻撃防御",
+        "content": "本システムはビジネスロジックの脆弱性を除き、DDoSやSQLiなどあらゆるWeb攻撃に対応します"
+      },
+      "email": {
+        "title": "メール攻撃防御",
+        "content": "フィッシング、マルウェア添付、危険なリンクなど、すべてのメール攻撃から守ります"
+      },
+      "vulnerability": {
+        "title": "脆弱性ファインダー",
+        "content": "アプリケーションコードやWeb/APIとの動的なやり取りを通じて脆弱性を特定し、インテリジェンス機能も活用します"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Webセキュリティとトラフィック管理",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "技術Cookieに関する通知",
+    "description": "当サイトでは、言語設定を保持し次回以降にこの通知を表示しないようにするため、当社が設定した技術Cookieのみを使用しています。トラッキングCookieや第三者Cookieは使用していません。",
+    "more": "詳しくは",
+    "link": "Cookieポリシー",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "料金",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "グローバルトラフィック監視付きCMC",
+        "content": "集中管理コンソール（CMC）は他のセキュリティシステムとシームレスに連携し、Global ShieldやSecurity Testerと同じドメインとインターフェイスを共有します。ここから国別ブロックやポート遮断などを実行できます"
+      },
+      "countryBlacklisting": {
+        "title": "国別ブロック",
+        "content": "特定の国からのトラフィックをすべて遮断します"
+      },
+      "portManagement": {
+        "title": "ポート管理",
+        "content": "未使用ポートを閉じて攻撃面を減らします。例：SSHが不要な場合はポート22を無効化する"
+      },
+      "cmcEmail": {
+        "title": "高度なメールフロー可視化付きCMC",
+        "content": "CMCは他のセキュリティシステムと連携し、追加した全社ユーザーのメールフローを監視・確認できます"
+      },
+      "dynamicVulnerability": {
+        "title": "動的脆弱性検出",
+        "content": "Webサイトとの対話を通じて脆弱性を検出し、インテリジェンスシステムも活用します"
+      },
+      "codeAnalyzer": {
+        "title": "コードアナライザー",
+        "content": "VS Codeプラグインを通じてコードベースのセキュリティ問題を直接検出し、リリース前に修正できます"
+      },
+      "intelligenceReport": {
+        "title": "インテリジェンスレポート",
+        "content": "対象について詳細な洞察を提供：開いているポート、稼働中のサービス、サブドメインなど"
+      },
+      "fullVulnerability": {
+        "title": "完全な脆弱性チェック",
+        "content": "完全チェックには動的スキャンとコードスキャンの両方が含まれます"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Webセキュリティとトラフィック管理",
+        "price": "$0.06/GB",
+        "description": "無制限\n追加料金なし",
+        "button": "WebアプリとAPIを保護",
+        "features": {
+          "webProtection": "ビジネスロジック以外のすべてのWeb攻撃を防御",
+          "ddosProtection": "リアルタイムDDoS防御",
+          "cmc": "グローバルトラフィック監視付きCMC",
+          "country": "国別ブロック機能",
+          "port": "ポート遮断機能"
+        }
+      },
+      "emailProtector": {
+        "title": "メールセキュリティ",
+        "price": "$10/月/アカウント",
+        "description": "1日10通まで\n追加メール: 1通あたり$0.035",
+        "button": "メールを保護",
+        "features": {
+          "cmcEmail": "最先端のメールフロー可視化を備えたCMC",
+          "visibility": "送受信メールを完全に可視化し、自動で脅威分類",
+          "webClient": "安全なWebメールクライアント",
+          "phishing": "フィッシング防御",
+          "malware": "マルウェア添付のスキャン",
+          "links": "危険なリンクの検出",
+          "spam": "スパムフィルタ",
+          "fakeSender": "なりすまし送信者の防止"
+        }
+      },
+      "securityTester": {
+        "title": "脆弱性ファインダー",
+        "price": "$25/月",
+        "description": "月50回までの完全チェック\n追加チェック: 1回$0.5",
+        "button": "テストを開始",
+        "features": {
+          "dynamic": "動的脆弱性検出",
+          "codeAnalyzer": "コードアナライザー",
+          "reports": "分かりやすいセキュリティレポート",
+          "intelligence": "インテリジェンスレポート"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "私たちのソリューション",
+    "sectionSubtitle": "4分で導入完了。サイバーセキュリティの専門知識がなくてもIT担当者なら誰でも利用できます。高度な可視化とコスト効率を提供します。",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - CIAレベルのトラフィック監視",
+        "description": "インタラクティブな3Dグローブが、秒間リクエスト数、アクティブユーザー数、バイト量を鮮明に表示します。",
+        "bullets": {
+          "one": "設定は簡単：IPとドメインを指定するだけ。",
+          "two": "DNSに追加するエージェントIPを受け取る。",
+          "three": "ポートを閉じて露出をゼロに。"
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - 世界初のAIメール防御",
+        "description": "世界初のAIを活用した商用メール防御システム。ベクタービューによりメールフローを時系列で追跡し、脅威を特定しやすくします。",
+        "bullets": {
+          "one": "スプーフィング、スパム、フィッシング、マルウェアを検知。",
+          "two": "管理者は保護対象のメールアカウントを追加可能。",
+          "three": "市場で最も高度なメールフロー可視化。"
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - 次世代の脆弱性テスト",
+        "description": "システムはワンタイムトークン（OTT）を発行し、ブラウザまたはVS Code拡張からフルカバレッジのチェックを実施できます。",
+        "bullets": {
+          "one": "CMCでスコープとターゲットを設定。",
+          "two": "OTTを貼り付けてチェック開始。",
+          "three": "インテリジェンス主導のリスク洞察。"
+        }
+      }
+    },
+    "cmc": {
+      "title": "集中管理コンソール（CMC）",
+      "description": "3つのコンポーネントを統合コンソールで管理し、集中可視化・容易な設定と監視・包括的なセキュリティレポートを提供します。"
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39秒",
+        "description": "39秒ごとにハッカー攻撃が発生"
+      },
+      {
+        "title": "2,000万件のDDoS攻撃",
+        "description": "2025年第1四半期だけで2,050万件のDDoS攻撃"
+      },
+      {
+        "title": "毎日",
+        "description": "毎日3万件のWebサイトが侵害されています"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "ハッカーの思考を知る",
+    "description": "実際の攻撃手法と脅威に関する日々のリサーチをチェック"
+  },
+  "modal": {
+    "title": "開発中",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "サイバー攻撃の現実"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Webセキュリティシステム：サイト/APIは2分で接続",
+      "description": "DDoSやSQLiなどのWeb攻撃を防御。ポート22を使用しない場合に閉じるのは良い運用です。"
+    },
+    "ciaMonitoring": {
+      "title": "CIAレベルのトラフィック監視",
+      "description": "インタラクティブ3Dグローブでリクエスト数、ユーザー数、ボリューム、履歴を表示。"
+    },
+    "userGrowth": {
+      "title": "ユーザー増加に関する有益な洞察",
+      "description": "ユーザー数の推移を確認"
+    },
+    "aiEmailProtection": {
+      "title": "世界初のAIメール防御：ネットワークは2分で接続",
+      "description": "CMCは管理者に、追加したアカウントの送受信メールを完全に可視化し、スプーフィング・スパム・フィッシング・危険リンク・マルウェアを自動分類します。"
+    },
+    "emailVisualization": {
+      "title": "送受信メールの可視化",
+      "description": "商用で最も高度なメールフロー可視化を備えたCMC"
+    },
+    "secureWebmail": {
+      "title": "安全なWebメールクライアント",
+      "description": "管理者が追加したアカウント向けの高セキュリティWebメールで、スプーフィングやスパム、フィッシング、マルウェアを検知します。"
+    }
+  },
+  "footer": {
+    "contactLabel": "連絡先：",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "住所：",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "利用規約",
+      "termsService": "サービス規約",
+      "privacy": "プライバシーポリシー",
+      "cookies": "Cookieポリシー"
+    },
+    "copyright": "© {year} Silence AI. 無断複写・転載を禁じます。"
+  }
+}

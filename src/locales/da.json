@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Vælg sprog",
+    "menuLabel": "Vælg et sprog"
+  },
+  "header": {
+    "nav": {
+      "main": "Forside",
+      "mail": "Mail",
+      "affiliate": "Partnerprogram",
+      "instructions": "Vejledninger"
+    },
+    "login": "Log ind"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Deltag i Silence AI's partnerprogram",
+      "title": "Gør invitationer til indtægter.",
+      "cta": "Deltag i partnerprogrammet",
+      "earnings": "$2,940.00",
+      "growth": "+18 % sammenlignet med sidste måned",
+      "snapshot": {
+        "label": "Live overblik",
+        "caption": "Ydelsen opdateres hvert 60. sekund, og bekræftede udbetalinger synkroniseres med det samme."
+      },
+      "graph": {
+        "label": "Indtægtstendens",
+        "title": "Vækst i henvisningsindtægter",
+        "window": "Seneste 30 dage",
+        "label0": "Uge 1",
+        "label1": "Uge 2",
+        "label2": "Uge 3",
+        "label3": "Uge 4",
+        "label4": "Uge 5",
+        "label5": "Uge 6",
+        "label6": "I dag"
+      },
+      "metric": {
+        "conversion": "Aktiveringer",
+        "conversionChange": "24 nye teams denne måned",
+        "pending": "Afventende belønninger",
+        "pendingChange": "Udbetalinger behandles inden for 2 arbejdsdage"
+      }
+    },
+    "howItWorks": {
+      "title": "Sådan fungerer det",
+      "create": {
+        "title": "Opret dit link",
+        "description": "Generér et unikt henvisningslink eller kampagnekode i dit Silence AI-dashboard."
+      },
+      "share": {
+        "title": "Del",
+        "description": "Invitér teams via e-mail, LinkedIn og fællesskaber. Følg resultaterne i realtid."
+      },
+      "earn": {
+        "title": "Tjen penge",
+        "description": "Modtag provision, så snart dine henviste kunder aktiverer Silence AI-beskyttelsen."
+      }
+    },
+    "commission": {
+      "heading": "Balancerewards",
+      "highlight": {
+        "label": "Derfor elsker partnere det"
+      },
+      "reward": {
+        "title": "10 % belønning på hver balanceopfyldning",
+        "description": "Når et inviteret team fylder deres Silence AI-tegnebog op, får du straks 10 % af nettobeløbet."
+      },
+      "settlement": {
+        "title": "Bogføring i realtid",
+        "description": "Belønninger bogføres på din partnerkonto inden for ét minut efter, at transaktionen er afsluttet – ingen manuel godkendelse nødvendig."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Indsendte udbetalingsanmodninger valideres automatisk og når din bankkonto inden for to arbejdsdage."
+      },
+      "sample": {
+        "label": "Eksempler på top-ups",
+        "caption": "Partnerindtægter vokser med hver opfyldning – uden nulstilling af niveauer og uden produktmapping.",
+        "topup": "$250 opfyldning → $25 belønning",
+        "topupHigher": "$1,000 opfyldning → $100 belønning"
+      },
+      "note": "Provision beregnes ud fra nettobeløbet efter betalingsgebyrer."
+    },
+    "faq": {
+      "title": "Spørgsmål og svar",
+      "payments": {
+        "question": "Hvordan modtager jeg betalinger?",
+        "answer": "Tilføj dit VISA- eller Mastercard-nummer i din profil. Udbetalinger kan sendes direkte til det angivne kort."
+      },
+      "discounts": {
+        "question": "Får henviste kunder rabat?",
+        "answer": "Nej. Henviste kunder får ikke rabat på deres køb. Kun partneren tjener provision på succesfulde henvisninger."
+      },
+      "statistics": {
+        "question": "Hvornår ser jeg henvisningsstatistikker?",
+        "answer": "Så snart en bruger registrerer sig med din kampagnekode eller dit link, vises deres e-mail og tilknyttede belønning i dit dashboard."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: Cybersikkerhed er hverken dyr eller kompliceret længere",
+    "subheading": "Det komplette AI-baserede cybersikkerhedssystem, der kombinerer:",
+    "playgroundHeading": "60 sekunders tur",
+    "bullets": {
+      "web": "Beskyttelse mod webangreb i realtid",
+      "email": "Beskyttelse mod e-mailangreb",
+      "vulnerability": "Finder sikkerhedshuller"
+    },
+    "buttons": {
+      "connect": "Forbind på 4 minutter",
+      "tour": "Se 90-sekunders rundtur"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Webangrebs-beskyttelse",
+        "content": "Systemet beskytter mod ALLE typer webangreb som DDoS, SQLi m.fl., bortset fra sårbarheder i forretningslogikken"
+      },
+      "email": {
+        "title": "Beskyttelse mod e-mailangreb",
+        "content": "Systemet beskytter mod ALLE typer e-mailangreb som phishing, malware-vedhæftninger og farlige links"
+      },
+      "vulnerability": {
+        "title": "Finder sårbarheder",
+        "content": "Systemet finder sårbarheder i applikationskoden og gennem dynamisk interaktion med din hjemmeside/API, understøttet af intelligensmotoren"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Websikkerhed og trafikstyring",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Notits om tekniske cookies",
+    "description": "Denne hjemmeside bruger kun tekniske førsteparts-cookies, som vi sætter for at huske dine sprogpræferencer og sikre, at notitsen ikke vises igen ved dit næste besøg. Der anvendes ingen sporings- eller tredjeparts-cookies.",
+    "more": "Læs mere i vores",
+    "link": "Cookiepolitik",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Priser",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC med global trafikovervågning",
+        "content": "CMC (Centralized Management Console) integreres problemfrit med andre sikkerhedssystemer og deler domæne og interface med Global Shield og Security Tester. Herfra kan du sætte lande på blokliste, lukke porte og udføre andre handlinger"
+      },
+      "countryBlacklisting": {
+        "title": "Blokering af lande",
+        "content": "Blokér al trafik fra et bestemt land"
+      },
+      "portManagement": {
+        "title": "Portstyring",
+        "content": "Luk ubrugte porte for at reducere angrebsfladen. Deaktiver f.eks. port 22, når SSH-adgang ikke er nødvendig"
+      },
+      "cmcEmail": {
+        "title": "CMC med avanceret visualisering af e-mailflow",
+        "content": "CMC integreres med de øvrige sikkerhedssystemer og giver dig mulighed for at overvåge e-mailflowet og gennemgå mail for alle tilføjede virksomhedsbrugere"
+      },
+      "dynamicVulnerability": {
+        "title": "Dynamisk sårbarhedssøgning",
+        "content": "Finder sårbarheder gennem interaktion med din hjemmeside, understøttet af intelligenssystemet"
+      },
+      "codeAnalyzer": {
+        "title": "Kodeanalysator",
+        "content": "Identificerer sikkerhedsproblemer direkte i din kodebase via et VS Code-plugin, så du kan rette dem før produktion"
+      },
+      "intelligenceReport": {
+        "title": "Intelligensrapport",
+        "content": "Giver detaljeret indsigt i dit mål, herunder åbne porte, kørende tjenester, subdomæner og andre følsomme oplysninger, der kræver handling"
+      },
+      "fullVulnerability": {
+        "title": "FULD sårbarhedskontrol",
+        "content": "En fuld kontrol kombinerer både dynamisk scanning og scanning af kodebasen"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Websikkerhed og trafikstyring",
+        "price": "$0.06/GB",
+        "description": "Ingen begrænsninger\nIngen ekstra gebyrer",
+        "button": "Sikr webapps og API'er",
+        "features": {
+          "webProtection": "Beskyttelse mod alle typer webangreb, bortset fra udnyttelse af forretningslogik",
+          "ddosProtection": "DDoS-beskyttelse i realtid",
+          "cmc": "CMC med global trafikovervågning",
+          "country": "Funktion til blokering af lande",
+          "port": "Mulighed for at lukke porte"
+        }
+      },
+      "emailProtector": {
+        "title": "E-mail-sikkerhed",
+        "price": "$10/md./konto",
+        "description": "Op til 10 e-mails pr. dag\nEkstra e-mails: $0.035 pr. stk.",
+        "button": "Sikr e-mail",
+        "features": {
+          "cmcEmail": "CMC med den mest avancerede visualisering af e-mailflow",
+          "visibility": "Fuldt overblik i CMC over alle sendt og modtaget mail med automatisk klassificering af trusler",
+          "webClient": "Sikker webmail-klient",
+          "phishing": "Phishing-beskyttelse",
+          "malware": "Skan af malware-vedhæftninger",
+          "links": "Registrering af farlige links",
+          "spam": "Spamfiltrering",
+          "fakeSender": "Beskyttelse mod falske afsendere"
+        }
+      },
+      "securityTester": {
+        "title": "Sårbarhedssøger",
+        "price": "$25/md.",
+        "description": "Op til 50 FULDE kontrolprøvninger pr. måned\nEkstra fulde kontrolprøvninger: $0.5 hver",
+        "button": "Start test",
+        "features": {
+          "dynamic": "Dynamisk sårbarhedssøgning",
+          "codeAnalyzer": "Kodeanalysator",
+          "reports": "Letforståelige sikkerhedsrapporter",
+          "intelligence": "Intelligensrapport"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Vores løsning",
+    "sectionSubtitle": "Klar på 4 minutter og kan bruges af enhver IT-professionel – ingen ekspertise i cybersikkerhed kræves. Vi tilbyder avanceret visualisering og en overkommelig pris.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield – trafikovervågning på CIA-niveau",
+        "description": "Vores interaktive 3D-globus giver en imponerende visualisering af din webtrafik og viser forespørgsler pr. sekund, aktive brugere og datamængde i bytes.",
+        "bullets": {
+          "one": "Nem opsætning: angiv blot din IP og dit domæne.",
+          "two": "Modtag en agent-IP til DNS.",
+          "three": "Luk porte for at undgå eksponering."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector – verdens første AI-baserede e-mailbeskyttelse",
+        "description": "Verdens første kommercielle e-mail-beskyttelsessystem baseret på AI. Vektorvisningen gør det nemt at følge e-mailflowet over tid og identificere trusler.",
+        "bullets": {
+          "one": "Registrerer spoofing, spam, phishing og malware.",
+          "two": "Administrator kan tilføje e-mailkonti til beskyttelse.",
+          "three": "Den mest avancerede kommercielle visualisering af e-mailflow."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester – næste generations sårbarhedstest",
+        "description": "Systemet leverer en One-Time-Token (OTT) til komplette sikkerhedskontroller. Tilslut blot via vores browser eller VS Code-udvidelse.",
+        "bullets": {
+          "one": "Definér sikkerhedsomfang og mål i CMC.",
+          "two": "Indsæt OTT og start sikkerhedstesten.",
+          "three": "Intelligensdrevne risikoindsigter."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Centraliseret administrationskonsol (CMC)",
+      "description": "Alle tre komponenter styres fra en samlet konsol, der giver central visualisering, nem konfiguration, overvågning og omfattende sikkerhedsrapportering."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 sekunder",
+        "description": "Der sker et hackerangreb hvert 39. sekund"
+      },
+      {
+        "title": "20 mio. DDoS-angreb",
+        "description": "20,5 mio. DDoS-angreb alene i 1. kvartal 2025"
+      },
+      {
+        "title": "Hver dag",
+        "description": "30.000 websites bliver hacket hver dag"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Opdag hvordan hackere tænker",
+    "description": "Følg os for daglige analyser af virkelige angrebsmetoder og cybertrusler"
+  },
+  "modal": {
+    "title": "Under aktiv udvikling",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Virkeligheden bag cyberangreb"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Websikkerhedssystem: Website/API kan tilsluttes på 2 minutter",
+      "description": "Beskyttelse mod webangreb som DDoS, SQLi m.m. Mulighed for at lukke porte; det er god praksis at lukke port 22, når den ikke bruges"
+    },
+    "ciaMonitoring": {
+      "title": "Trafikovervågning på CIA-niveau",
+      "description": "Vores interaktive 3D-globus viser trafikvolumen efter forespørgsler, brugere og mængde og giver historik over ændringer i antal brugere"
+    },
+    "userGrowth": {
+      "title": "Nyttige indsigter i bruger vækst",
+      "description": "Mulighed for at se historikken over ændringer i brugerantallet"
+    },
+    "aiEmailProtection": {
+      "title": "Verdens første AI-baserede e-mailbeskyttelse: e-mailnetværk kan tilkobles på 2 minutter",
+      "description": "CMC giver administratorer fuldt overblik over alle udsendte og modtagne e-mails for de tilføjede konti med automatisk klassificering af trusler som spoofing, spam, phishing, farlige links og malware."
+    },
+    "emailVisualization": {
+      "title": "Visualisering af udsendte og modtagne e-mails",
+      "description": "CMC med den mest avancerede kommercielle visualisering af e-mailflow"
+    },
+    "secureWebmail": {
+      "title": "Sikker webmail-klient",
+      "description": "For konti, der er tilføjet af administratoren, findes en meget sikker webmail-klient, der registrerer og kategoriserer trusler som spoofing, spam, phishing og malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Kontakt:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Adresse:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Brugsbetingelser",
+      "termsService": "Servicevilkår",
+      "privacy": "Privatlivspolitik",
+      "cookies": "Cookiepolitik"
+    },
+    "copyright": "© {year} Silence AI. Alle rettigheder forbeholdes."
+  }
+}

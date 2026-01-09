@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "Select language",
+    "menuLabel": "Choose language"
+  },
+  "header": {
+    "nav": {
+      "main": "Main",
+      "mail": "Mail",
+      "affiliate": "Affiliate program",
+      "instructions": "Instructions"
+    },
+    "login": "Login"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "Gakktu í samstarfsáætlun Silence AI",
+      "title": "Umbreyttu boðum í tekjur.",
+      "cta": "Skráðu þig í samstarfsáætlun",
+      "earnings": "$2,940.00",
+      "growth": "+18% miðað við síðasta mánuð",
+      "snapshot": {
+        "label": "Bein yfirlit",
+        "caption": "Frammistöðugögn uppfærast á 60 sekúndna fresti og staðfestar greiðslur samstillast samstundis."
+      },
+      "graph": {
+        "label": "Þróun tekna",
+        "title": "Vöxtur tilvísanatekna",
+        "window": "Síðustu 30 dagar",
+        "label0": "Vika 1",
+        "label1": "Vika 2",
+        "label2": "Vika 3",
+        "label3": "Vika 4",
+        "label4": "Vika 5",
+        "label5": "Vika 6",
+        "label6": "Í dag"
+      },
+      "metric": {
+        "conversion": "Virkjanir",
+        "conversionChange": "24 ný lið í þessum mánuði",
+        "pending": "Ógreiddar umbunir",
+        "pendingChange": "Úttektir afgreiddar innan 2 virkra daga"
+      }
+    },
+    "howItWorks": {
+      "title": "Hvernig þetta virkar",
+      "create": {
+        "title": "Búðu til tengilinn þinn",
+        "description": "Búðu til einstakan tilvísunartengil eða afsláttarkóða í Silence AI stjórnborðinu þínu."
+      },
+      "share": {
+        "title": "Deildu",
+        "description": "Bjóðaðu liðum með tölvupósti, á LinkedIn og í samfélögum. Fylgstu með frammistöðu í rauntíma."
+      },
+      "earn": {
+        "title": "Þénaðu",
+        "description": "Þú færð þóknun um leið og viðskiptavinir sem þú vísar á virkja Silence AI vörnin."
+      }
+    },
+    "commission": {
+      "heading": "Jafnvægisumbunir",
+      "highlight": {
+        "label": "Af hverju samstarfsaðilar kunna að meta þetta"
+      },
+      "reward": {
+        "title": "10% umbun fyrir hverja inneign",
+        "description": "Þegar boðið lið hleður Silence AI veskið sitt fær þú 10% af nettóupphæðinni samstundis."
+      },
+      "settlement": {
+        "title": "Rauntíma bókun í höfuðbók",
+        "description": "Umbanir bætast á samstarfsreikninginn innan einnar mínútu eftir að færslan klárast — engin handvirk samþykkt."
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "Úttektarbeiðnir eru yfirfarnar sjálfkrafa og berast inn á bankareikninginn innan tveggja virkra daga."
+      },
+      "sample": {
+        "label": "Dæmi um inneign",
+        "caption": "Tekjur samstarfsaðila aukast með hverri inneign — engar stigendurstillingar né vörukortlagning.",
+        "topup": "$250 inneign → $25 umbun",
+        "topupHigher": "$1,000 inneign → $100 umbun"
+      },
+      "note": "Þóknunin er reiknuð af nettóupphæðinni eftir greiðslugjöld."
+    },
+    "faq": {
+      "title": "Spurningar og svör",
+      "payments": {
+        "question": "Hvernig fæ ég greitt?",
+        "answer": "Bættu VISA- eða Mastercard-númerinu við prófílinn þinn. Úttektir er hægt að færa beint á tilgreinda kortið."
+      },
+      "discounts": {
+        "question": "Fá viðskiptavinir sem ég vísa til afslátt?",
+        "answer": "Nei. Viðskiptavinir sem þú vísar til fá ekki afslátt af kaupum sínum; aðeins samstarfsaðilinn fær þóknun af vel heppnuðum tilvísunum."
+      },
+      "statistics": {
+        "question": "Hvenær sé ég tilvísunartölfræðina mína?",
+        "answer": "Um leið og notandi skráir sig með kóðanum eða tenglinum þínum birtast netfang hans og umbunin í stjórnborðinu."
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1: Cybersecurity is neither expensive nor complicated anymore",
+    "subheading": "The all in one, AI-based cybersecurity system that combines:",
+    "playgroundHeading": "60 sekúndna kynning",
+    "bullets": {
+      "web": "Real time web attack protection",
+      "email": "Email attacks protection",
+      "vulnerability": "Vulnerability-finder"
+    },
+    "buttons": {
+      "connect": "Connect in 4 minutes",
+      "tour": "Watch 90-sec Tour"
+    },
+    "tooltips": {
+      "web": {
+        "title": "Web Attack Protection",
+        "content": "System can protect against ALL types of web attacks, such as DDoS, SQLi, and others, except business logic vulnerabilities"
+      },
+      "email": {
+        "title": "Email Attack Protection",
+        "content": "System can protect against ALL types of email attacks, such as phishing, malware attachment, dangerous links, etc."
+      },
+      "vulnerability": {
+        "title": "Vulnerability Finder",
+        "content": "System can find the vulnerabilities within the code of the application and by dynamically interacting with your website/API, including the way of finding vulnerabilities through the intelligence system"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "Web Security & Traffic Management",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "Technical Cookies Notice",
+    "description": "This website uses only first-party technical cookies that are set by us to remember your language preferences and ensure the cookie notice is not shown again on your next visit. No tracking or third-party cookies are used.",
+    "more": "Learn more in our",
+    "link": "Cookie Policy",
+    "ok": "OK"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "CMC with Global Traffic Monitoring",
+        "content": "CMC (Centralized Management Console) integrates seamlessly with other security systems and is available under the same domain and interface as Global Shield and Security Tester allows you to manage network security at scale. From here, you can blacklist countries, close ports, and perform other operations"
+      },
+      "countryBlacklisting": {
+        "title": "Country Blacklisting",
+        "content": "Block all traffic originating from a specific country"
+      },
+      "portManagement": {
+        "title": "Port Management",
+        "content": "Close unused ports to reduce attack surface. For example, disabling port 22 when SSH access is not needed. To minimize the risk of system getting compromised"
+      },
+      "cmcEmail": {
+        "title": "CMC with Advanced Email Flow Visualizer",
+        "content": "CMC (Centralized Management Console) integrates seamlessly with other security systems and is available under the same domain and interface as Global Shield and Security Tester. Within this console, you can monitor email flows and review emails for all corporate users you've added"
+      },
+      "dynamicVulnerability": {
+        "title": "Dynamic Vulnerability Finder",
+        "content": "Detects vulnerabilities by interacting with your website, including the way of finding vulnerabilities through the intelligence system"
+      },
+      "codeAnalyzer": {
+        "title": "Code Analyzer",
+        "content": "Identifies security issues directly in your codebase through a VS Code plugin, helping you fix problems before deployment"
+      },
+      "intelligenceReport": {
+        "title": "Intelligence Report",
+        "content": "Generates detailed insights about your target, including open ports, running services, subdomains, and other sensitive information that may require action"
+      },
+      "fullVulnerability": {
+        "title": "FULL Vulnerability Check",
+        "content": "A FULL vulnerability check includes both a dynamic vulnerability scan and a codebase vulnerability scan"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "Web Security & Traffic Management",
+        "price": "$0.06/GB",
+        "description": "No limits\nNo additional fees",
+        "button": "Secure web-app and APIs",
+        "features": {
+          "webProtection": "Protection against all types of web attacks, except business logic vulnerability exploitation",
+          "ddosProtection": "Real-time DDoS protection",
+          "cmc": "CMC with Global traffic monitoring system",
+          "country": "Country blacklisting feature",
+          "port": "Closing ports feature"
+        }
+      },
+      "emailProtector": {
+        "title": "Email Security",
+        "price": "$10/month/account",
+        "description": "Up to 10 emails per day\nAdditional emails: $0.035 each email",
+        "button": "Secure Email",
+        "features": {
+          "cmcEmail": "CMC with most advanced email flow visualizer",
+          "visibility": "Complete visibility of sent and received emails of all the email accounts, in CMC, with automatic threat categorization",
+          "webClient": "Secure WebMail-client",
+          "phishing": "Phishing protection",
+          "malware": "Malware attachment scanning",
+          "links": "Dangerous link detection",
+          "spam": "Spam filtering",
+          "fakeSender": "Fake Sender Protection"
+        }
+      },
+      "securityTester": {
+        "title": "Vulnerability Finder",
+        "price": "$25/month",
+        "description": "Up to 50 FULL vulnerability checks per month\nAdditional FULL checks: $0.5 each",
+        "button": "Start Testing",
+        "features": {
+          "dynamic": "Dynamic vulnerability finder",
+          "codeAnalyzer": "Code analyzer",
+          "reports": "Easily understandable security assessment reports",
+          "intelligence": "Intelligence Report"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "Our Solution",
+    "sectionSubtitle": "Ready in 4 minutes and usable by any IT professional—no cybersecurity expertise required. We offer advanced visualization and affordability.",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - CIA-Level Traffic Monitoring",
+        "description": "Our interactive 3D globe provides a stunning visualization of your web traffic, showing requests per second, active users, and traffic volume in bytes.",
+        "bullets": {
+          "one": "Easy setup: just specify your IP and domain.",
+          "two": "Receive an agent IP to add to your DNS.",
+          "three": "Port closing for zero exposure."
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - World's First AI Email Protection",
+        "description": "The world's first AI-based email protection system. Our vector view makes it easy to track email flow over time and identify threats.",
+        "bullets": {
+          "one": "Detects spoofing, spam, phishing, and malware.",
+          "two": "Admin can add email accounts for protection.",
+          "three": "Most advanced commercial mail flow visualizer."
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - Next-Gen Vulnerability Testing",
+        "description": "Our system provides a One-Time-Token (OTT) for full-coverage security checks. Simply connect via our browser or VSCode extension.",
+        "bullets": {
+          "one": "Specify security scope and target in the CMC.",
+          "two": "Paste the OTT and start the security check.",
+          "three": "Intelligence-driven risk insights."
+        }
+      }
+    },
+    "cmc": {
+      "title": "Centralized Management Console (CMC)",
+      "description": "All three components are managed through a unified console that provides centralized visualization, easy configuration and monitoring, and comprehensive security reporting."
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 seconds",
+        "description": "There is a hacker attack every 39 seconds"
+      },
+      {
+        "title": "20M DDoS attacks",
+        "description": "20.5M DDoS attacks in Q1 2025 alone"
+      },
+      {
+        "title": "Every day",
+        "description": "30 000 websites get hacked every single day"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "Discover how hackers think",
+    "description": "Follow us for daily research on real attack methods and cyber threats"
+  },
+  "modal": {
+    "title": "Under active development",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "Reality of Cyberattacks"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Web security system: Website/API can be connected in 2 minutes",
+      "description": "Protection against web attacks such as DDoS, SQLi, etc. There is also ability to close ports, it is very good practice to close port 22, when it is not being used"
+    },
+    "ciaMonitoring": {
+      "title": "CIA-Level Traffic Monitoring",
+      "description": "Our interactive 3D globe shows traffic volume by requests, users, and volume. The ability to see the history in the change of the number of users"
+    },
+    "userGrowth": {
+      "title": "Useful insights on the increase in the number of users",
+      "description": "The ability to see the history of changes of the number of users"
+    },
+    "aiEmailProtection": {
+      "title": "World's First AI-based Email Protection system: Email network can be connected in 2 minutes",
+      "description": "For the admins, there is the CMC that shows complete visibility into all sent and received emails for accounts added by the administrator, with automatic threat categorization like spoofing, spam, phishing, dangerous link, and malware."
+    },
+    "emailVisualization": {
+      "title": "Visualization of the sent and received emails",
+      "description": "CMC with the most advanced, commercially available email flow visualizer"
+    },
+    "secureWebmail": {
+      "title": "Secure Webmail Client",
+      "description": "For email accounts added by admin, there is the most secure webmail client. Detects and categorizes threats like spoofing, spam, phishing, and malware."
+    }
+  },
+  "footer": {
+    "contactLabel": "Contact:",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "Address:",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "Terms of Use",
+      "termsService": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookies Policy"
+    },
+    "copyright": "© {year} Silence AI. All rights reserved."
+  }
+}

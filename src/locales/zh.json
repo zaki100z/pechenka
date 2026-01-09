@@ -1,0 +1,325 @@
+{
+  "languageSelector": {
+    "triggerLabel": "选择语言",
+    "menuLabel": "请选择语言"
+  },
+  "header": {
+    "nav": {
+      "main": "首页",
+      "mail": "邮件",
+      "affiliate": "联盟计划",
+      "instructions": "使用指南"
+    },
+    "login": "登录"
+  },
+  "affiliate": {
+    "hero": {
+      "tagline": "加入 Silence AI 联盟计划",
+      "title": "让邀请转化为收入。",
+      "cta": "加入合作伙伴计划",
+      "earnings": "$2,940.00",
+      "growth": "+18% 相比上月",
+      "snapshot": {
+        "label": "实时快照",
+        "caption": "每 60 秒更新一次表现，确认的付款会立即同步。"
+      },
+      "graph": {
+        "label": "收益趋势",
+        "title": "推广收入增长",
+        "window": "最近 30 天",
+        "label0": "第 1 周",
+        "label1": "第 2 周",
+        "label2": "第 3 周",
+        "label3": "第 4 周",
+        "label4": "第 5 周",
+        "label5": "第 6 周",
+        "label6": "今天"
+      },
+      "metric": {
+        "conversion": "激活数",
+        "conversionChange": "本月新增 24 个团队",
+        "pending": "待发放奖励",
+        "pendingChange": "提现将在 2 个工作日内处理"
+      }
+    },
+    "howItWorks": {
+      "title": "运作方式",
+      "create": {
+        "title": "创建专属链接",
+        "description": "在 Silence AI 控制台生成专属推广链接或优惠码。"
+      },
+      "share": {
+        "title": "分享",
+        "description": "通过邮件、LinkedIn 与社区邀请团队，并实时跟踪表现。"
+      },
+      "earn": {
+        "title": "赚取佣金",
+        "description": "当被推荐客户激活 Silence AI 保护后立即获得佣金。"
+      }
+    },
+    "commission": {
+      "heading": "余额奖励",
+      "highlight": {
+        "label": "合作伙伴喜爱的理由"
+      },
+      "reward": {
+        "title": "每笔余额充值奖励 10%",
+        "description": "受邀团队为 Silence AI 钱包充值时，净额的 10% 会即时返还给你。"
+      },
+      "settlement": {
+        "title": "实时账本结算",
+        "description": "交易完成后一分种内奖励会计入你的合作余额——无需手动审核。"
+      },
+      "withdrawal": {
+        "title": "Withdrawals processed in 2 business days",
+        "description": "提现申请将自动审核，并在两个工作日内到达你的银行账户。"
+      },
+      "sample": {
+        "label": "示例充值",
+        "caption": "每次充值都会提升合作伙伴收益——无需重置等级，也无需映射产品。",
+        "topup": "$250 充值 → $25 奖励",
+        "topupHigher": "$1,000 充值 → $100 奖励"
+      },
+      "note": "佣金按扣除支付手续费后的净充值金额计算。"
+    },
+    "faq": {
+      "title": "常见问题",
+      "payments": {
+        "question": "如何收款？",
+        "answer": "你可以在个人资料中添加 VISA 或 Mastercard 卡号，款项会直接打到指定的卡片。"
+      },
+      "discounts": {
+        "question": "被推荐的客户会获得折扣吗？",
+        "answer": "不会。被推荐客户不会享受折扣，只有合作伙伴能从成功推荐中获得佣金。"
+      },
+      "statistics": {
+        "question": "推荐数据何时可见？",
+        "answer": "一旦用户使用你的推广码或链接注册，他们的邮箱和相应奖励会显示在你的控制台中。"
+      }
+    }
+  },
+  "hero": {
+    "headline": "AI-SOC 1：网络安全不再昂贵也不再复杂",
+    "subheading": "这是一套基于人工智能的全方位网络安全系统，可同时提供：",
+    "playgroundHeading": "60 秒导览",
+    "bullets": {
+      "web": "实时防护各类网络攻击",
+      "email": "邮件攻击防护",
+      "vulnerability": "漏洞侦测"
+    },
+    "buttons": {
+      "connect": "4 分钟快速接入",
+      "tour": "观看 90 秒演示"
+    },
+    "tooltips": {
+      "web": {
+        "title": "网络攻击防护",
+        "content": "系统可抵御包括 DDoS、SQLi 在内的所有网络攻击（业务逻辑漏洞除外）"
+      },
+      "email": {
+        "title": "邮件攻击防护",
+        "content": "系统可抵御包括钓鱼、恶意附件、危险链接等在内的所有邮件攻击"
+      },
+      "vulnerability": {
+        "title": "漏洞侦测",
+        "content": "系统通过分析应用代码及与网站/API 的动态交互来发现漏洞，并结合情报引擎提供更深入的发现"
+      }
+    }
+  },
+  "playground": {
+    "options": {
+      "globeShield": "网络安全与流量管控",
+      "emailSecurity": "Email Security"
+    }
+  },
+  "cookie": {
+    "title": "技术性 Cookie 提示",
+    "description": "本网站仅使用我们自己设置的第一方技术 Cookie，用于记住您的语言偏好，并确保下次访问时不再显示此提示。不使用任何跟踪或第三方 Cookie。",
+    "more": "详情请参阅我们的",
+    "link": "Cookie 政策",
+    "ok": "好的"
+  },
+  "pricing": {
+    "title": "价格方案",
+    "tooltips": {
+      "cmcGlobal": {
+        "title": "具备全球流量监控的 CMC",
+        "content": "集中管理控制台（CMC）与其他安全系统深度集成，并与 Global Shield 与 Security Tester 共用域名与界面，可用于大规模管理网络安全，如国家黑名单、端口关闭等"
+      },
+      "countryBlacklisting": {
+        "title": "国家黑名单",
+        "content": "屏蔽来自指定国家的所有流量"
+      },
+      "portManagement": {
+        "title": "端口管理",
+        "content": "关闭未使用的端口以降低攻击面，例如若无需 SSH，则应禁用 22 号端口以减少被入侵风险"
+      },
+      "cmcEmail": {
+        "title": "带高级邮件流可视化的 CMC",
+        "content": "CMC 与其他安全系统共享域名和界面，可视化监控您添加的所有企业用户的邮件流并进行审查"
+      },
+      "dynamicVulnerability": {
+        "title": "动态漏洞侦测",
+        "content": "通过与您的网站交互来发现漏洞，并结合情报系统实现更全面的检测"
+      },
+      "codeAnalyzer": {
+        "title": "代码分析器",
+        "content": "通过 VS Code 插件直接识别代码中的安全隐患，帮助您在上线前修复问题"
+      },
+      "intelligenceReport": {
+        "title": "情报报告",
+        "content": "生成有关目标的详细洞察，包括开放端口、运行中的服务、子域名及其他需要处理的敏感信息"
+      },
+      "fullVulnerability": {
+        "title": "全面漏洞审查",
+        "content": "全面审查同时包含动态扫描与代码扫描"
+      }
+    },
+    "plans": {
+      "globalShield": {
+        "title": "网络安全与流量管控",
+        "price": "$0.06/GB",
+        "description": "无限制\n无额外费用",
+        "button": "保护 Web 应用与 API",
+        "features": {
+          "webProtection": "防护所有类型的网络攻击（业务逻辑漏洞除外）",
+          "ddosProtection": "实时 DDoS 防护",
+          "cmc": "带全球流量监控的 CMC",
+          "country": "国家黑名单功能",
+          "port": "端口关闭功能"
+        }
+      },
+      "emailProtector": {
+        "title": "邮件安全",
+        "price": "$10/月/账号",
+        "description": "每天最多 10 封邮件\n额外邮件：每封 $0.035",
+        "button": "保护邮箱",
+        "features": {
+          "cmcEmail": "CMC 搭载最先进的邮件流可视化",
+          "visibility": "在 CMC 中全面掌握所有账号的收发邮件，并自动分类威胁",
+          "webClient": "安全的 Web 邮件客户端",
+          "phishing": "防钓鱼攻击",
+          "malware": "恶意附件扫描",
+          "links": "危险链接检测",
+          "spam": "垃圾邮件过滤",
+          "fakeSender": "伪造发件人防护"
+        }
+      },
+      "securityTester": {
+        "title": "漏洞侦测",
+        "price": "$25/月",
+        "description": "每月最多 50 次全面检查\n额外全面检查：每次 $0.5",
+        "button": "开始测试",
+        "features": {
+          "dynamic": "动态漏洞侦测",
+          "codeAnalyzer": "代码分析器",
+          "reports": "通俗易懂的安全评估报告",
+          "intelligence": "情报报告"
+        }
+      }
+    }
+  },
+  "solution": {
+    "sectionTitle": "我们的解决方案",
+    "sectionSubtitle": "4 分钟即可上线，任何 IT 人员都能轻松使用——无需网络安全专长。我们提供高级可视化能力与可负担的价格。",
+    "cards": {
+      "globalShield": {
+        "title": "Global Shield - CIA 级别流量监控",
+        "description": "交互式 3D 地球仪以惊艳的视觉展示您的 Web 流量，包括每秒请求数、活跃用户与流量大小。",
+        "bullets": {
+          "one": "部署简单：只需填写 IP 和域名。",
+          "two": "获取代理 IP 并添加至 DNS。",
+          "three": "关闭端口，杜绝暴露面。"
+        }
+      },
+      "emailProtector": {
+        "title": "Email Protector - 全球首个 AI 邮件防护",
+        "description": "全球首个基于 AI 的商业化邮件防护系统。矢量化视图让您轻松跟踪邮件流并识别威胁。",
+        "bullets": {
+          "one": "识别伪造、垃圾、钓鱼与恶意邮件。",
+          "two": "管理员可添加需要保护的邮箱账号。",
+          "three": "业内最先进的商业邮件流可视化。"
+        }
+      },
+      "securityTester": {
+        "title": "Security Tester - 下一代漏洞测试",
+        "description": "系统提供一次性令牌（OTT）执行全覆盖安全测试，可通过浏览器或 VS Code 插件进行连接。",
+        "bullets": {
+          "one": "在 CMC 中定义测试范围与目标。",
+          "two": "粘贴 OTT 并启动安全检查。",
+          "three": "获取情报驱动的风险洞察。"
+        }
+      }
+    },
+    "cmc": {
+      "title": "集中管理控制台（CMC）",
+      "description": "三个核心组件均通过统一控制台管理，提供集中化可视化、便捷配置监控以及全面的安全报告。"
+    }
+  },
+  "insights": {
+    "items": [
+      {
+        "title": "39 秒",
+        "description": "平均每 39 秒就发生一次黑客攻击"
+      },
+      {
+        "title": "2000 万次 DDoS 攻击",
+        "description": "仅 2025 年第一季度就发生 2050 万次 DDoS 攻击"
+      },
+      {
+        "title": "每天",
+        "description": "每天有 30,000 个网站被入侵"
+      }
+    ]
+  },
+  "floatingText": {
+    "headline": "洞察黑客的思维方式",
+    "description": "关注我们，每日获取真实攻击手法与网络威胁研究"
+  },
+  "modal": {
+    "title": "正在积极开发",
+    "body": "The system is expected to be launched on October 10"
+  },
+  "lamp": {
+    "title": "网络攻击的真实面貌"
+  },
+  "stickySolution": {
+    "webSecurity": {
+      "title": "Web 安全系统：网站/API 2 分钟接入",
+      "description": "防护 DDoS、SQLi 等网络攻击。支持关闭 22 号端口等未使用端口，确保更安全的实践。"
+    },
+    "ciaMonitoring": {
+      "title": "CIA 级别流量监控",
+      "description": "交互式 3D 地球仪按请求、用户与流量展示，并可回溯用户数量变化。"
+    },
+    "userGrowth": {
+      "title": "用户增长洞察",
+      "description": "可查看用户数量变化的历史趋势"
+    },
+    "aiEmailProtection": {
+      "title": "全球首个 AI 邮件防护：邮件网络 2 分钟接入",
+      "description": "CMC 为管理员提供添加账号后所有收发邮件的全可见性，并自动分类伪造、垃圾、钓鱼、危险链接与恶意软件等威胁。"
+    },
+    "emailVisualization": {
+      "title": "邮件流可视化",
+      "description": "CMC 配备业界最先进的商业化邮件流可视化能力"
+    },
+    "secureWebmail": {
+      "title": "安全 Web 邮件客户端",
+      "description": "为管理员添加的邮箱提供最安全的 Web 客户端，可检测并分类伪造、垃圾、钓鱼与恶意邮件。"
+    }
+  },
+  "footer": {
+    "contactLabel": "联系方式：",
+    "contactValue": "info@silenceai.net",
+    "addressLabel": "地址：",
+    "addressValue": "Media City Free Zone, Al Messaned, Sharjah, UAE",
+    "links": {
+      "termsUse": "使用条款",
+      "termsService": "服务条款",
+      "privacy": "隐私政策",
+      "cookies": "Cookie 政策"
+    },
+    "copyright": "© {year} Silence AI。保留所有权利。"
+  }
+}
